@@ -1,0 +1,22 @@
+{
+  "name": "grammar-club",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llwslc/grammar-club.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llwslc/grammar-club/issues"
+  },
+  "homepage": "https://github.com/llwslc/grammar-club#readme",
+  "dependencies": {
+    "vuepress": "^1.4.1"
+  }
+}
