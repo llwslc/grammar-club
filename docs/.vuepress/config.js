@@ -7,13 +7,7 @@ module.exports = {
     displayAllHeaders: true,
     sidebar: 'auto',
     sidebar: {
-      '/content/': [
-        ['Preface', '序'],
-        ['Introduction', '前言'],
-        ['Contents', '目录'],
-        ['Chapter01', '第一章'],
-        ['Chapter02', '第二章']
-      ]
+      '/content/': [['Preface', '序'], 'Introduction', 'Contents', 'Chapter01', 'Chapter02']
     },
     nav: [{ text: '目录', link: '/content/Preface' }]
   }
