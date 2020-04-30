@@ -4,7 +4,9 @@
   "description": "",
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs",
+    "github:build": "cross-env GITHUB='github' vuepress build docs",
+    "github:deploy": "sh deploy.sh"
   },
   "repository": {
     "type": "git",
@@ -17,6 +19,7 @@
   },
   "homepage": "https://github.com/llwslc/grammar-club#readme",
   "dependencies": {
+    "cross-env": "^7.0.2",
     "vuepress": "^1.4.1"
   }
 }
