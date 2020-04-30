@@ -4,9 +4,17 @@ module.exports = {
   title: '语法俱乐部',
   themeConfig: {
     repo: 'llwslc/grammar-club',
+    displayAllHeaders: true,
+    sidebar: 'auto',
     sidebar: {
-      '/content/': ['']
+      '/content/': [
+        ['Preface', '序'],
+        ['Introduction', '前言'],
+        ['Contents', '目录'],
+        ['Chapter01', '第一章'],
+        ['Chapter02', '第二章']
+      ]
     },
-    nav: [{ text: '目录', link: '/content/' }]
+    nav: [{ text: '目录', link: '/content/Preface' }]
   }
 };

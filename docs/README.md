@@ -4,7 +4,7 @@ heroImage: /cover.png
 heroText: 语法俱乐部
 tagline: 旋元佑
 actionText: 开始学习 →
-actionLink: /content/
+actionLink: /content/Preface
 footer: 感谢
 ---
 
