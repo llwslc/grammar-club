@@ -7,7 +7,7 @@
 
 &nbsp;
 
-- ### 第一篇 初级句型--简单句(Simple Sentences)
+- ### 第一篇 初级句型--简单句（Simple Sentences）
   - #### 第一章 基本句型及补语
   - #### 第二章 名词词组与冠词
   - #### 第三章 动词时态
@@ -19,12 +19,12 @@
   - #### 第九章 语气
   - #### 第十章 介系词
   - #### 第十一章 主语动词一致性
-- ### 第二篇 中级句型--复句(Complex Sentences)、合句(Compound Sentences)
+- ### 第二篇 中级句型--复句（Complex Sentences）、合句（Compound Sentences）
   - #### 第十二章 名词从句
   - #### 第十三章 副词从句
   - #### 第十四章 关系从句
   - #### 第十五章 对等连接词与对等从句
-- ### 第三篇 高级句型--简化从句(Reduced Clauses)、倒装句(Inverted Sentences)
+- ### 第三篇 高级句型--简化从句（Reduced Clauses）、倒装句（Inverted Sentences）
   - #### 第十六章 从属从句简化的通则
   - #### 第十七章 形容词从句简化
   - #### 第十八章 名词从句简化
