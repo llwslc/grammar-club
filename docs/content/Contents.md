@@ -1,3 +1,7 @@
+---
+pageClass: contents_class
+---
+
 # 目录
 
 ### &nbsp;
