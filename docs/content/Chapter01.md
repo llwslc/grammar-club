@@ -69,23 +69,23 @@ be 动词直接翻译为“是”，是最有代表性的“连缀动词”。�
 
 再看看下面这些例子：
 
-- That dress <Bu>looks</Bu> pretty. （那件裙子很好看。）
+- That dress <Note>looks</Note> pretty. （那件裙子很好看。）
 
-- The dog <Bu>seems</Bu> friendly. （那条狗好像很友善。）
+- The dog <Note>seems</Note> friendly. （那条狗好像很友善。）
 
-- His demands <Bu>appear</Bu> reasonable. （他的要求显得很合理。）
+- His demands <Note>appear</Note> reasonable. （他的要求显得很合理。）
 
-- His trip <Bu>sounds</Bu> exciting. （他的旅行听起来很刺激。）
+- His trip <Note>sounds</Note> exciting. （他的旅行听起来很刺激。）
 
-- I <Bu>feel</Bu> sick. （我感觉不舒服。）
+- I <Note>feel</Note> sick. （我感觉不舒服。）
 
-- The drug <Bu>tastes</Bu> bitter. （药很苦。）
+- The drug <Note>tastes</Note> bitter. （药很苦。）
 
-- The story <Bu>proved</Bu> false. （故事经证实是捏造的。）
+- The story <Note>proved</Note> false. （故事经证实是捏造的。）
 
-- He <Bu>became</Bu> a teacher. （他当了老师。）
+- He <Note>became</Note> a teacher. （他当了老师。）
 
-- A nurse <Bu>makes</Bu> a good wife. （娶护士做太太真不错。）
+- A nurse <Note>makes</Note> a good wife. （娶护士做太太真不错。）
 
 现在请做个小实验。把以上句子里的动词全部换成 be 动词，也就是，把各式各样的“是”换成纯粹的是。有没有发觉，这些句子的意思和句型，都没有太大的改变？这就是“主语 + 动词 + 补语（S+V+C）”的句型。凡是动词解释为各式各样的“是”的句子，都属于这种句型。
 
