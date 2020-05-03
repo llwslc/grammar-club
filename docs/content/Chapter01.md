@@ -22,11 +22,11 @@
 
 2. John Simth killed three enemy soldiers. （约翰·史密斯杀了三名敌军士兵。）
 
-在例 1 中，主语 John Smith 是这个句子所叙述的对象。讲白一点就是：这个句子要告诉你的是有关 John Smith 的事情。是什么事情呢？主要是：他“死了”（died）。动词 died 构成叙述的主要内容。至于说他死在第一次大战还是第二次大战，则是可有可无的细节，以介词短语 in World War Two 来表示，依附在动词上做修饰语使用。换句话说，例 1 如果只说 John Smith died ，也可以构成意思完整、正确的句子。
+在例 1 中，主语 John Smith 是这个句子所叙述的对象。讲白一点就是：这个句子要告诉你的是有关 John Smith 的事情。是什么事情呢？主要是：他“死了”（died）。动词 died 构成叙述的主要内容。至于说他死在第一次大战还是第二次大战，则是可有可无的细节，以介词短语 in World War Two 来表示，依附在动词上做修饰语使用。换句话说，例 1 如果只说 John Smith died，也可以构成意思完整、正确的句子。
 
 像 die 这种动作，可以独立发生，不牵涉到别的人或物，这种动词就叫“不及物”动词。可是像例 2 中 kill 这种动作，就必须发生在另一个对象的身上。要做出“杀”的动作，得有个东西“被杀”才行，“杀”这种动词就叫“及物”动词，它后面通常必须跟着一个宾语来“接受”这个动作。例 2 中，killed 就是及物动词，而 three enemy soldiers 就是宾语。
 
-接下来要进入重点所在了。在例 2 中，killed 虽然需要宾语，可是句子最主要的内容还是在主语、动词这两个部分。主语部分告诉我们这个句子要叙述有关 John Smith 的事情；动词部分叙述他做了个“杀”的动作。如果只说 John Smith killed ，那么这个句子还没有表达出完整的意思，是不好的句子。可是，它并非完全没有意义，至少我们可以看出来，有一个叫 John Smith 的人杀了个不晓得是什么的东西。
+接下来要进入重点所在了。在例 2 中，killed 虽然需要宾语，可是句子最主要的内容还是在主语、动词这两个部分。主语部分告诉我们这个句子要叙述有关 John Smith 的事情；动词部分叙述他做了个“杀”的动作。如果只说 John Smith killed，那么这个句子还没有表达出完整的意思，是不好的句子。可是，它并非完全没有意义，至少我们可以看出来，有一个叫 John Smith 的人杀了个不晓得是什么的东西。
 
 反之，如果句子缺了补语，就会变得完全没有意义，因为叙述的部分完全缺乏。请注意：<b>在所有的英语动词中，只有解释为“是”的动词是空的，完全没有意义。</b>一般的动词，不论及物或不及物，都要担任叙述全句最主要内容的工作。只有解释为“是”的动词，没有叙述能力，只能扮演引导叙述部分的角色。例如：
 
@@ -95,23 +95,23 @@ be 动词直接翻译为“是”，是最有代表性的“连缀动词”。�
 
 请看看下面这些宾语补语的例子：
 
-- I find the dress pretty. （我觉得这衣服很漂亮。）
+- I find <Note>the dress pretty</Note>. （我觉得这衣服很漂亮。）
 
-- The meat made the dog friendly. （肉让狗变得很友善。）
+- The meat made <Note>the dog friendly</Note>. （肉让狗变得很友善。）
 
-- They consider his demands reasonable. （他们认为他的要求是合理的。）
+- They consider <Note>his demands reasonable</Note>. （他们认为他的要求是合理的。）
 
-- He found the trip exciting. （他觉得这次旅行很刺激。）
+- He found <Note>the trip exciting</Note>. （他觉得这次旅行很刺激。）
 
-- The food made me sick. （这种食物使我想吐。）
+- The food made <Note>me sick</Note>. （这种食物使我想吐。）
 
-- I don't find the drug bitter. （我并不觉得药很苦。）
+- I don't find <Note>the drug bitter</Note>. （我并不觉得药很苦。）
 
-- I consider the story false. （我认为故事是捏造的。）
+- I consider <Note>the story false</Note>. （我认为故事是捏造的。）
 
-- His college training made him a teacher. （他的大学教育使他成为一名教师。）
+- His college training made <Note>him a teacher</Note>. （他的大学教育使他成为一名教师。）
 
-- Most people consider a nurse a good wife. （大多数的人认为护士会是称职的太太。）
+- Most people consider <Note>a nurse a good wife</Note>. （大多数的人认为护士会是称职的太太。）
 
 就拿其中第一个例子 I find the dress pretty 来看，宾语 the dress 和补语 pretty 之间虽然没有“是”字，可是带有这种暗示存在。如果加个 be 动词进去，就变成刚才介绍主语补语的例子 The dress is pretty。上面所有宾语补语的例子都可以用同样的方法变成主语补语的句子。其实这也就是检验 S+V+O+C 句型最简便的方法：把宾语和补语拿出来，中间加 be 动词，看看能不能改成 S+V+C。
 
@@ -123,7 +123,7 @@ be 动词直接翻译为“是”，是最有代表性的“连缀动词”。�
 
 ## 没有补语的 be 动词
 
-介绍完两种补语的句型，最后把 be 动词的用法做个补充。be 动词是最纯粹的 linking verb ，解释为“是”，后面应该要有补语才算完整。如果看到 be 动词后面没有补语，表示这个 be 动词并不是当做连缀动词使用。这时候 be 动词并不解释为“是”，而要解释为“存在”，用在最单纯的“主语 + 动词（S+V）"的句型中。
+介绍完两种补语的句型，最后把 be 动词的用法做个补充。be 动词是最纯粹的 linking verb，解释为“是”，后面应该要有补语才算完整。如果看到 be 动词后面没有补语，表示这个 be 动词并不是当做连缀动词使用。这时候 be 动词并不解释为“是”，而要解释为“存在”，用在最单纯的“主语 + 动词（S+V）"的句型中。
 
 例如，笛卡尔说的“我思故我在”这句话，被公认为现代哲学的开始。它的意思是：人类因为能够思考，才能肯定自我的存在。原文是拉丁文 Cogito ergo sum。翻译成英语是 I think; therefore I am。再翻译成中文时，不能只看到 I am 就翻译成“我是”。光说“我是”是没有意义的，因为动词“是”是空的字眼，必须有补语来交代“是什么”。在没有补语的情形下，I am 就得翻译成“我存在” 了。
 
@@ -133,11 +133,11 @@ be 动词直接翻译为“是”，是最有代表性的“连缀动词”。�
 
 最后再谈谈 S+V+O+O 的句型，那么五种基本句型就全部清楚了。有一种动词，后面可以接两个宾语。例如：
 
-John's <Note note="S">father</Note> <Note note="V">gave</Note> <Note note="O">him</Note> <Note note="O">a dog</Note>. （约翰的父亲给他一只狗。）
+- John's <Note note="S">father</Note> <Note note="V">gave</Note> <Note note="O">him</Note> <Note note="O">a dog</Note>. （约翰的父亲给他一只狗。）
 
 请想一想 gave 这个动词。要做“给”的动作，首先要有个东西：在上例中就是那只狗。然后，还得有人接受，才能给得出去：在上例中就是 him。这两个宾语，一个是给的对象，一个是给的东西，两个都是名词，可是并不相等。这个句型要和另一种四个元素的句型 S+V+O+C 区分清楚，后者的宾语与补语也可以都是名词，可是宾语与补语间存在有“等于是”的关系。例如：
 
-John's <Note note="S">father</Note> <Note note="V">called</Note> <Note note="O">him</Note> <Note note="C">a dog</Note>. （约翰的父亲骂他是狗。）
+- John's <Note note="S">father</Note> <Note note="V">called</Note> <Note note="O">him</Note> <Note note="C">a dog</Note>. （约翰的父亲骂他是狗。）
 
 因为有“他是狗”的意思在，所以 a dog 是 him 的补语。如果是 John's father gave him a dog 这一句，him 是给的对象，a dog 是给的东西，两者并不相等，所以并不是宾语与补语的关系，两个都是宾语。
 
