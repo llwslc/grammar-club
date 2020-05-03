@@ -2,6 +2,9 @@
   <details>
     <summary class="test_summary">
       <div class="test_question">{{ q }}</div>
+      <div class="test_choices">
+        <div class="test_choice" v-for="(d, i) in c">({{ options[i] }}) {{ d }}</div>
+      </div>
     </summary>
 
     <div class="test_answer"><slot /></div>
@@ -10,7 +13,15 @@
 
 <script>
 export default {
-  props: ['q']
+  props: {
+    q: String,
+    c: Array
+  },
+  data: function() {
+    return {
+      options: ['A', 'B', 'C', 'D']
+    };
+  }
 };
 </script>
 
@@ -24,6 +35,12 @@ export default {
   line-height: 1.7;
   margin-top: 0;
   margin-bottom: 0;
+
+.test_choices
+  margin-left: 1em;
+  margin-bottom: 1em;
+  .test_choice
+    line-height: 1.7;
 
 .test_answer
   margin-top: 1em;
