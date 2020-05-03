@@ -149,42 +149,42 @@ be 动词直接翻译为“是”，是最有代表性的“连缀动词”。�
 
 &nbsp;
 
-<TestQuestion q="1. The magician moved his fingers quickly.">The <Note note="S">magician</Note> <Note note="V">moved</Note> his <Note note="O">fingers</Note> quickly.</TestQuestion>
+<Test q="1. The magician moved his fingers quickly.">The <Note note="S">magician</Note> <Note note="V">moved</Note> his <Note note="O">fingers</Note> quickly.</Test>
 
-<TestQuestion q="2. The police found the letter missing.">The <Note note="S">police</Note> <Note note="V">found</Note> the <Note note="O"">letter</Note> <Note note="C">missing</Note>.</TestQuestion>
+<Test q="2. The police found the letter missing.">The <Note note="S">police</Note> <Note note="V">found</Note> the <Note note="O"">letter</Note> <Note note="C">missing</Note>.</Test>
 
-<TestQuestion q="3. The police found the missing letter.">The <Note note="S">police</Note> <Note note="V">found</Note> the <Note note="O">missing letter</Note>.</TestQuestion>
+<Test q="3. The police found the missing letter.">The <Note note="S">police</Note> <Note note="V">found</Note> the <Note note="O">missing letter</Note>.</Test>
 
-<TestQuestion q="4. He ordered himself a steak and a bottle of red wine."><Note note="S">He</Note> <Note note="V">ordered</Note> <Note note="O">himself</Note> <Note note="O">a steak and a bottle of red wine</Note>.</TestQuestion>
+<Test q="4. He ordered himself a steak and a bottle of red wine."><Note note="S">He</Note> <Note note="V">ordered</Note> <Note note="O">himself</Note> <Note note="O">a steak and a bottle of red wine</Note>.</Test>
 
-<TestQuestion q="5. Don't you like dancing?">Don't <Note note="S">you</Note> <Note note="V">like</Note> <Note note="O">dancing</Note>.</TestQuestion>
+<Test q="5. Don't you like dancing?">Don't <Note note="S">you</Note> <Note note="V">like</Note> <Note note="O">dancing</Note>.</Test>
 
-<TestQuestion q="6. The President has gone abroad on a visit.">The <Note note="S">President</Note> <Note note="V">has gone</Note> abroad on a visit.</TestQuestion>
+<Test q="6. The President has gone abroad on a visit.">The <Note note="S">President</Note> <Note note="V">has gone</Note> abroad on a visit.</Test>
 
-<TestQuestion q="7. That sounds like a good idea."><Note note="S">That</Note> <Note note="V">sounds</Note> <Note note="C">like a good idea</Note>.</TestQuestion>
+<Test q="7. That sounds like a good idea."><Note note="S">That</Note> <Note note="V">sounds</Note> <Note note="C">like a good idea</Note>.</Test>
 
-<TestQuestion q="8. The box feels heavy.">The <Note note="S">box</Note> <Note note="V">feels</Note> <Note note="C">heavy</Note>.</TestQuestion>
+<Test q="8. The box feels heavy.">The <Note note="S">box</Note> <Note note="V">feels</Note> <Note note="C">heavy</Note>.</Test>
 
-<TestQuestion q="9. He told his guests a dirty joke at the party."><Note note="S">He</Note> <Note note="V">told</Note> his <Note note="O">guests</Note> a dirty <Note note="O">joke</Note> at the party.</TestQuestion>
+<Test q="9. He told his guests a dirty joke at the party."><Note note="S">He</Note> <Note note="V">told</Note> his <Note note="O">guests</Note> a dirty <Note note="O">joke</Note> at the party.</Test>
 
-<TestQuestion q="10. The people elected Bill Clinton President.">The <Note note="S">people</Note> <Note note="V">elected</Note> <Note note="O">Bill Clinton</Note> <Note note="C">President</Note>.</TestQuestion>
+<Test q="10. The people elected Bill Clinton President.">The <Note note="S">people</Note> <Note note="V">elected</Note> <Note note="O">Bill Clinton</Note> <Note note="C">President</Note>.</Test>
 
-<TestQuestion q="11. The child asks her mother a million questions a day.">The <Note note="S">child</Note> <Note note="V">asks</Note> her <Note note="O">mother</Note> a million <Note note="O">questions</Note> a day.</TestQuestion>
+<Test q="11. The child asks her mother a million questions a day.">The <Note note="S">child</Note> <Note note="V">asks</Note> her <Note note="O">mother</Note> a million <Note note="O">questions</Note> a day.</Test>
 
-<TestQuestion q="12. Monkeys love bananas."><Note note="S">Monkeys</Note> <Note note="V">love</Note> <Note note="O">bananas</Note>.</TestQuestion>
+<Test q="12. Monkeys love bananas."><Note note="S">Monkeys</Note> <Note note="V">love</Note> <Note note="O">bananas</Note>.</Test>
 
-<TestQuestion q="13. You can leave the door open."><Note note="S">You</Note> can <Note note="V">leave</Note> the <Note note="O">door</Note> <Note note="C">open</Note>.</TestQuestion>
+<Test q="13. You can leave the door open."><Note note="S">You</Note> can <Note note="V">leave</Note> the <Note note="O">door</Note> <Note note="C">open</Note>.</Test>
 
-<TestQuestion q="14. The company has gone bankrupt.">The <Note note="S">company</Note> <Note note="V">has gone</Note> <Note note="C">bankrupt</Note>.</TestQuestion>
+<Test q="14. The company has gone bankrupt.">The <Note note="S">company</Note> <Note note="V">has gone</Note> <Note note="C">bankrupt</Note>.</Test>
 
-<TestQuestion q="15. Why don't you answer me?">Why don't <Note note="S">you</Note> <Note note="V">answer</Note> <Note note="O">me</Note>.</TestQuestion>
+<Test q="15. Why don't you answer me?">Why don't <Note note="S">you</Note> <Note note="V">answer</Note> <Note note="O">me</Note>.</Test>
 
-<TestQuestion q="16. I consider you a member of the family."><Note note="S">I</Note> <Note note="V">consider</Note> <Note note="O">you</Note> a <Note note="C">member</Note> of the family.</TestQuestion>
+<Test q="16. I consider you a member of the family."><Note note="S">I</Note> <Note note="V">consider</Note> <Note note="O">you</Note> a <Note note="C">member</Note> of the family.</Test>
 
-<TestQuestion q="17. It never rains in California."><Note note="S">It</Note> never <Note note="V">rains</Note> in California.</TestQuestion>
+<Test q="17. It never rains in California."><Note note="S">It</Note> never <Note note="V">rains</Note> in California.</Test>
 
-<TestQuestion q="18. You'll look better with these designer glasses on."><Note note="S">You</Note>'ll <Note note="V">look</Note> <Note note="C">better</Note> with these designer glasses on.</TestQuestion>
+<Test q="18. You'll look better with these designer glasses on."><Note note="S">You</Note>'ll <Note note="V">look</Note> <Note note="C">better</Note> with these designer glasses on.</Test>
 
-<TestQuestion q="19. I can see better without these reading glasses."><Note note="S">I</Note> can <Note note="V">see</Note> better without these reading glasses.</TestQuestion>
+<Test q="19. I can see better without these reading glasses."><Note note="S">I</Note> can <Note note="V">see</Note> better without these reading glasses.</Test>
 
-<TestQuestion q="20. Do you call me a liar?">Do <Note note="S">you</Note> <Note note="V">call</Note> <Note note="O">me</Note> a <Note note="C">liar</Note>.</TestQuestion>
+<Test q="20. Do you call me a liar?">Do <Note note="S">you</Note> <Note note="V">call</Note> <Note note="O">me</Note> a <Note note="C">liar</Note>.</Test>
