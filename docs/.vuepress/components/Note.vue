@@ -1,7 +1,7 @@
 <template>
   <span class="note_main">
     <b class="note_title"><slot /></b>
-    <b>{{ note }}</b>
+    <b v-if="note">{{ note }}</b>
   </span>
 </template>
 
