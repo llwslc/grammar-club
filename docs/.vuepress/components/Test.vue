@@ -30,11 +30,8 @@ export default {
   margin-top: 1em;
 
 .test_question
-  display: inline-block;
-  text-indent: 0;
+  display: inline;
   line-height: 1.7;
-  margin-top: 0;
-  margin-bottom: 0;
 
 .test_choices
   margin-left: 1em;
