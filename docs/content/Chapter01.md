@@ -183,7 +183,7 @@ John's <Note note="S">father</Note> <Note note="V">called</Note> <Note note="O">
 
 <TestQuestion q="17. It never rains in California."><Note note="S">It</Note> never <Note note="V">rains</Note> in California.</TestQuestion>
 
-<TestQuestion q="18. You'll look better with these designer glasses on."><Note note="S">You</Note>'ll <Note note="S">look</Note> <Note note="C">better</Note> with these designer glasses on.</TestQuestion>
+<TestQuestion q="18. You'll look better with these designer glasses on."><Note note="S">You</Note>'ll <Note note="V">look</Note> <Note note="C">better</Note> with these designer glasses on.</TestQuestion>
 
 <TestQuestion q="19. I can see better without these reading glasses."><Note note="S">I</Note> can <Note note="V">see</Note> better without these reading glasses.</TestQuestion>
 
