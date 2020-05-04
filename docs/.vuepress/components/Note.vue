@@ -18,6 +18,7 @@ export default {
   display: inline-grid;
   text-align: center;
   text-indent: 0;
+  line-height: 1.2;
 
 .note_title
   text-decoration: underline;
