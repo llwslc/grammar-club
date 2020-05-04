@@ -58,6 +58,7 @@ export default {
 .test_answer
   margin-top: 1em;
   margin-left: 1em;
+  line-height: 1.7;
 
 .test_answer_btn
   margin-left: 2em;
