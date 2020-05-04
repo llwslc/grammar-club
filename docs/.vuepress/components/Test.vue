@@ -1,14 +1,19 @@
 <template>
-  <details>
-    <summary class="test_summary">
-      <div class="test_question">{{ q }}</div>
-      <div class="test_choices">
-        <div class="test_choice" v-for="(d, i) in c">({{ options[i] }}) {{ d }}</div>
+  <div>
+    <div class="test_summary">
+      <div class="test_triangle_box">
+        <div class="test_triangle" :style="{ transform: open ? 'rotate(90deg)' : '' }"></div>
       </div>
-    </summary>
+      <div class="test_question">{{ q }}</div>
+    </div>
+    <div class="test_choices" v-if="c && c.length > 0">
+      <div class="test_choice" v-for="(d, i) in c">({{ options[i] }}) {{ d }}</div>
+    </div>
 
-    <div class="test_answer"><slot /></div>
-  </details>
+    <div class="test_answer" v-if="open"><slot /></div>
+
+    <div class="test_answer_btn" @click="open = !open">{{ open ? 'Hide' : 'Show' }} Answer</div>
+  </div>
 </template>
 
 <script>
@@ -19,7 +24,8 @@ export default {
   },
   data: function() {
     return {
-      options: ['A', 'B', 'C', 'D']
+      options: ['A', 'B', 'C', 'D'],
+      open: false
     };
   }
 };
@@ -29,17 +35,42 @@ export default {
 .test_summary
   margin-top: 1em;
 
+.test_triangle_box
+  width: 1em;
+  float:left;
+  .test_triangle
+    margin-top: 0.5em;
+    width: 0;
+    height: 0;
+    border-top: 0.36em solid transparent;
+    border-left: 0.36 * 1.734em solid;
+    border-bottom: 0.36em solid transparent;
+
 .test_question
   display: inline;
   line-height: 1.7;
 
 .test_choices
   margin-left: 1em;
-  margin-bottom: 1em;
   .test_choice
     line-height: 1.7;
 
 .test_answer
   margin-top: 1em;
   margin-left: 1em;
+
+.test_answer_btn
+  margin-left: 2em;
+  margin-top: 2em;
+  font-size: 8px;
+  display: inline-block;
+  color: #fff;
+  background-color: #3eaf7c;
+  padding: 0.5em 2em;
+  border-radius: 4px;
+  transition: background-color .1s ease;
+  box-sizing: border-box;
+  border-bottom: 1px solid darken(#3eaf7c, 10%);
+  &:hover
+    background-color: lighten(#3eaf7c, 10%);
 </style>
