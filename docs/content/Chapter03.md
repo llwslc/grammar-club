@@ -12,21 +12,31 @@
 
 - 例： The U.S. <Note>established</Note> diplomatic relations with the P.R.C. <Note>in 1979</Note>. （美国与中华人民共和国于 1979 年建交。）
 
+<Tense img="/c3f01.png" />
+
 此句中，以 in 1979 来修饰动词 establish（建立）的时间，表示美国与中华人民共和国建交发生在这段时间内，所以我们可以用括弧将 in 1979 括起来。而这个括弧在 now 的左边，属于过去时间，所以动词用 established，是过去时间的简单式。
 
 - 例： The movable print <Note>was</Note> introduced to England <Note>in 1485</Note>. （活版印刷于 1485 年被引进英国。）
+
+<Tense img="/c3f02.png" />
 
 此句中，把 be 动词当动词看，他的时间副词 in 1485 也是一个括弧，在 now 的左边，同样是过去时间的简单式，所以动词是 was，意思是说：活版印刷引进英国这件事情是发生在那个括出来的时段中。过去分词 introduced 当作形容词补语看待，<b>过去分词字尾 -ed 视为一个表达被动意味的形容词字尾。</b>be 动词是一个没有意义的连缀动词，用来连接主语“活版印刷”和补语“被引进（到英国）”。be 动词虽然没有意义，不需要翻译，可是它是动词，必须以它来决定时态，所以用 was 的过去简单式出现。
 
 - 例： I <Note>was</Note> visiting clients <Note>the whole day yesterday</Note>. （昨天一整天我一直在拜访客户。）
 
+<Tense img="/c3f03.png" />
+
 同样地，把 be 动词视为动词看待会比较简单。时间副词 the whole day yesterday 的性质和 in 1979 是相同的：都是一个过去时间的括弧。所以，动词时态也是一样的：都是过去简单式：was。be 动词后面 visiting clients 这个部分可视为一个现在分词的短语，做为形容词补语来形容主语。<b>现在分词表示一种持续性，相当于中文的“正在”、“一直”的口吻。</b>be 动词不必翻译，因为它是一个没有意义的连缀动词，连接主语“我”和补语“一直在拜访客户”。be 动词只要负责交代时态就好。而“昨天一整天”是一个过去的时间，所以用 was，也就是过去简单式。
 
 - 例： I <Note>was</Note> watching TV <Note>when I heard the doorbell</Note>. （听到门钤响的时候，我正在看电视。）
 
+<Tense img="/c3f04.png" />
+
 这个句子的时间副词“我听到门铃响的时候”，是指门铃响起来那一刹那，所以是很短的一瞬间。上面说过简单式要括出动作发生的时段，而这个括弧可大可小。在 when I heard the doorbell 中，这个括弧就是最小的一个点：听到门铃的那一刹那，所以动词仍然要用简单式。将 be 动词当做动词看待，要用过去简单式 was。而那时候“我”“正在看电视”。主语与补语 watching TV 之间用 be 动词连起来，将 watching TV 视为形容词短语。
 
 - 例： The witness <Note>was</Note> being questioned in court <Note>when he had a heart attack</Note>. （证人心脏病突发时，他正在法庭上被质询。）
+
+<Tense img="/c3f05.png" />
 
 此句中，时间副词 when he had a heart attack 指的是他心脏病突发的瞬间，是一个最小的括弧。而 had 表示这个时间是过去的时间，所以 be 动词用 was 来表示过去简单式。主语是“证人”，be 动词后面的部分当形容词补语看待，有 being 和 questioned 两个分词，都视为形容词。be 动词是没有意义的，所以 being 的存在主要意义不在 be，而在字尾 -ing。这个字尾表示“正在”，所以 being 只要解释为“正在”就可以了。过去分词 questioned 也当形容词看，可是过去分词字尾 -ed 表示被动，配合 question 就解释为“被质询”，所以，being questioned 解释为“正在被质询”，用来做为主语“证人”的补语。动词 was 还是过去简单式。
 
@@ -36,21 +46,31 @@
 
 - 例： Huang <Note>pitches</Note> a fast ball. Li <Note>swings</Note>. It <Note>looks</Note> like a hit. The shortstop <Note>fails</Note> to stop it. It'<Note>s</Note> a double! （黄[平洋]投出快速球，李[居明]挥棒，好像是安打，游击手没有拦到球，是二垒安打！）
 
+<Tense img="/c3f06.png" />
+
 播报运动比赛时，常会用到一连串的现在简单式。像这些句子，虽然没有交代时间副词，可是很明显每一句都是现在发生的，也就是 now。播报员所播报的一直是现在这一刻所发生的事情，所以就是 now 这一瞬间，也就是最小的括弧。只要是括弧就是简单式，所以是现在简单式。
 
 - 例： Bush <Note>is</Note> the U.S. President. （布什是美国总统。）
+
+<Tense img="/c3f07.png" />
 
 布什是现任美国总统，可是几年前他不是，几年后他也可能不再是。这个句子的时间是一个以 now 为中心的括弧，所以用现在简单式。
 
 - 例： All mothers <Note>love</Note> their children. （天下的妈妈都爱自己的小孩。）
 
+<Tense img="/c3f08.png" />
+
 天下的妈妈没有不爱小孩的。这是古今皆然，以后也不会改变，所以这是以 now 为中心的一个极大的括弧。不论大小，只要可以用括弧表示，就是简单式，所以动词用现在简单式的 love。
 
 - 例： 7-ELEVEN <Note>is</Note> selling big cokes at a discount <Note>this month</Note>. （统一超市这个月大杯可乐打折。）
 
+<Tense img="/c3f09.png" />
+
 把 be 动词当动词看，时间副词 this month 是以 now 为核心的一个括弧，所以用现在简单式 is。可乐打折，是正在持续中的活动，所以用 selling big cokes，以现在分词片词做补语来强调持续性。
 
 - 例： According to the NASA survey, the ozone layer <Note>is</Note> being depleted. （根据美国国家航空和航天局的研究，臭氧层正在被消耗中。）
+
+<Tense img="/c3f10.png" />
 
 这是一个以 now 为中心的较大的括弧，所以动词用现在简单式 is，而 being depleted 当做补语看待。being 只有词尾 -ing 有意义，解释“正在……”。depleted 中过去分词的词尾 -ed 有被动的意思，所以解释为“被消耗”。两词合在一起，being depleted 就是“正在被消耗”当形容词补语看待，形容主语“臭氧层”。现在简单式的动词 is 则不需要翻译。
 
@@ -60,13 +80,19 @@
 
 - 例： There <Note>well be</Note> a major election <Note>in March</Note>. （三月将有一次大选。）
 
+<Tense img="/c3f11.png" />
+
 时间副词 in March 是一个未来时间的括弧。只要可以括出时间来就是简单式。未来的事情还没发生，尚未确定，所以要加一个助动词 will 在前面，意思是“到时候会”。
 
 - 例： Don't call me at six tomorrow. I'<Note>ll</Note> still <Note>be</Note> sleeping <Note>then</Note>. （不要在明天六点时打电话给我。我那时还在睡觉。）
 
+<Tense img="/c3f12.png" />
+
 明天六点，是六点整那一刻，所以是一个最小的括弧，因为是在 now 的右边，所以要用未来简单式。把 be 动词当动词看，未来简单式 will be 后面的 sleeping 就要当形容词补语。而词尾 -ing 表示持续性。所以 sleeping 是“在睡觉”，用来形容主语“我”。动词 will be 当中，连缀动词 be 没有意义，只要解释 will 的部分“会”即可。
 
 - 例： The building <Note>well be</Note> razed <Note>next month</Note>. （这房子下个月拆除。）
+
+<Tense img="/c3f13.png" />
 
 时间副词 next month 是一个未来时间的括弧，所以动词用未来简单式：will be。后面的 razed（被拆除）是过去分词，当形容词补语看待，形容主语“房子”。
 
