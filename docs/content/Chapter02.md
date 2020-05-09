@@ -180,42 +180,42 @@
 
 #### 请选出最适当的答案填入空格内，以使句子完整。
 
-<Test q="1. The carpenter repaired __ ." :c="['the table\'s legs','table\'s legs','legs of the table','the legs of the table']">(D) 所有格有两种表示方式：人与其他生物可用 's 的形式，无生物则用 of... 的介系词短语形式来表示。本题的 table 是无生物，故只能从 C 和 D 之间选择。因为有 of the table 修饰前面的 legs，表示出来是“哪些”脚，所以要有定冠词 the。</Test>
+<Test q="1. The carpenter repaired __ ." :c="['the table\'s legs','table\'s legs','legs of the table','the legs of the table']"><b>(D)</b> 所有格有两种表示方式：人与其他生物可用 's 的形式，无生物则用 of... 的介系词短语形式来表示。本题的 table 是无生物，故只能从 C 和 D 之间选择。因为有 of the table 修饰前面的 legs，表示出来是“哪些”脚，所以要有定冠词 the。</Test>
 
-<Test q="2. Mr. Smith has three __ under his name." :c="['shoe stores','shoes stores','shoe store','shoestores']">(A) 复合名词，前面的 shoe 放在形容词位置，只能用单数。后面的 store 要用复数，因为有限定词 three。D 的 shoestores 是错误拼法，两个词不能连起来。</Test>
+<Test q="2. Mr. Smith has three __ under his name." :c="['shoe stores','shoes stores','shoe store','shoestores']"><b>(A)</b> 复合名词，前面的 shoe 放在形容词位置，只能用单数。后面的 store 要用复数，因为有限定词 three。D 的 shoestores 是错误拼法，两个词不能连起来。</Test>
 
-<Test q="3. The house sits on a __ road." :c="['twelve feet in width','of twelve feet','twelve-foot-wide','twelve-feet']">(C) 冠词（a）与名词（road）之间是形容词位置，而且只能放单词，不能放短语，故从 C 和 D 来选。既然是形容词，没有复数可言，故排除掉 D。</Test>
+<Test q="3. The house sits on a __ road." :c="['twelve feet in width','of twelve feet','twelve-foot-wide','twelve-feet']"><b>(C)</b> 冠词（a）与名词（road）之间是形容词位置，而且只能放单词，不能放短语，故从 C 和 D 来选。既然是形容词，没有复数可言，故排除掉 D。</Test>
 
-<Test q="4. These men and women are all __ ." :c="['language\'s teachers','languages teachers','language teachers','languages\' teachers']">(C) “语言教师”是复合名词，故由 B 和 C 之间来选。前面 language 的位置是形容词位置，没有复数，故选 C。</Test>
+<Test q="4. These men and women are all __ ." :c="['language\'s teachers','languages teachers','language teachers','languages\' teachers']"><b>(C)</b> “语言教师”是复合名词，故由 B 和 C 之间来选。前面 language 的位置是形容词位置，没有复数，故选 C。</Test>
 
-<Test q="5. He ordered __ for breakfast." :c="['orange juice, bread and butter, coffee, and bacon, and eggs','orange, juice, bread, and butter, coffee and bacon and eggs','orange juice, bread and butter, coffee, and bacon and eggs']">(C) bread and butter（奶油吐司）是一种食品，两个词都不可数，不需要限定词，构成一个名词短语，因而中间不能有逗号。bacon and eggs (火腿蛋）亦然。这里的 bacon 不可数，eggs 是复数，亦不需要限定词。</Test>
+<Test q="5. He ordered __ for breakfast." :c="['orange juice, bread and butter, coffee, and bacon, and eggs','orange, juice, bread, and butter, coffee and bacon and eggs','orange juice, bread and butter, coffee, and bacon and eggs']"><b>(C)</b> bread and butter（奶油吐司）是一种食品，两个词都不可数，不需要限定词，构成一个名词短语，因而中间不能有逗号。bacon and eggs (火腿蛋）亦然。这里的 bacon 不可数，eggs 是复数，亦不需要限定词。</Test>
 
-<Test q="6. The prime minister is the real ruler and the prince is merely a __." :c="['little','small','nobody','none']">(C) nobody 意为“无名小卒”时应作普通名词看待，可加冠词 a。A 和 B 都是形容词，不应置于冠词 a 后面当作名词用。none 是 no one 的复合字，其中的 no 就是限定词，所以前面不能再加冠词 a。</Test>
+<Test q="6. The prime minister is the real ruler and the prince is merely a __." :c="['little','small','nobody','none']"><b>(C)</b> nobody 意为“无名小卒”时应作普通名词看待，可加冠词 a。A 和 B 都是形容词，不应置于冠词 a 后面当作名词用。none 是 no one 的复合字，其中的 no 就是限定词，所以前面不能再加冠词 a。</Test>
 
-<Test q="7. Living in the city, he was always being annoyed by noises of __." :c="['one sort of other','one sort of the other','one sort or another','one or others sorts']">(C) one sort or another 表示 one sort or another sort，是一个常用的短语，意为“各种各样的”。</Test>
+<Test q="7. Living in the city, he was always being annoyed by noises of __." :c="['one sort of other','one sort of the other','one sort or another','one or others sorts']"><b>(C)</b> one sort or another 表示 one sort or another sort，是一个常用的短语，意为“各种各样的”。</Test>
 
-<Test q="8. Writing is one thing and talking is quite __." :c="['the other','another','others','the others']">(B) 以 another（后面省略 thing）和 one thing 相对，可以表示“不同的两件事”，也是常用短语。</Test>
+<Test q="8. Writing is one thing and talking is quite __." :c="['the other','another','others','the others']"><b>(B)</b> 以 another（后面省略 thing）和 one thing 相对，可以表示“不同的两件事”，也是常用短语。</Test>
 
-<Test q="9. The majority of the Members of Parliament are men, but there are __ women, of course." :c="['few','little','any','quite a few']">(D) C 的 any 只适用于否定句或疑问句。肯定句中的 any 要解释为“任何”，在此亦不适合。B 的 little 要配合不可数名词才能用。在 A 与 D 之间，few 是否定的意味，a few 才能表示肯定，而 quite a few 则是加上强调语气的副词 quite 来表示“还不少”。上下文要求肯定语气（由连接词 but 可看出），故选 D。</Test>
+<Test q="9. The majority of the Members of Parliament are men, but there are __ women, of course." :c="['few','little','any','quite a few']"><b>(D)</b> C 的 any 只适用于否定句或疑问句。肯定句中的 any 要解释为“任何”，在此亦不适合。B 的 little 要配合不可数名词才能用。在 A 与 D 之间，few 是否定的意味，a few 才能表示肯定，而 quite a few 则是加上强调语气的副词 quite 来表示“还不少”。上下文要求肯定语气（由连接词 but 可看出），故选 D。</Test>
 
-<Test q="10. __ is what he said: Don't go out!" :c="['This','That','The','These']">(A) 用来表示上文讲过的一句话，可以用 this 或 that 作代名词。例如：There's going to be a raise. Isn't this（或 that） great? 可是，如果代表下文要说的一句话，就只能用 this。</Test>
+<Test q="10. __ is what he said: Don't go out!" :c="['This','That','The','These']"><b>(A)</b> 用来表示上文讲过的一句话，可以用 this 或 that 作代名词。例如：There's going to be a raise. Isn't this（或 that） great? 可是，如果代表下文要说的一句话，就只能用 this。</Test>
 
-<Test q="11. Whether you serve coffee or tea doesn't matter; __ will do." :c="['any','either','some','all']">(B) 两者（coffee，tea）之间任选其一，应用 either，三者以上才用 any。</Test>
+<Test q="11. Whether you serve coffee or tea doesn't matter; __ will do." :c="['any','either','some','all']"><b>(B)</b> 两者（coffee，tea）之间任选其一，应用 either，三者以上才用 any。</Test>
 
-<Test q="12. As we have finished the first chapter, now we will read __ ." :c="['second','the second','second one','the two']">(B) the second 代表 the second chapter，与上文的 the first chapter 对称。</Test>
+<Test q="12. As we have finished the first chapter, now we will read __ ." :c="['second','the second','second one','the two']"><b>(B)</b> the second 代表 the second chapter，与上文的 the first chapter 对称。</Test>
 
-<Test q="13. He has two daughters; one is a singer and __ an actress." :c="['another','other','the other','the others']">(C) 上文有交待一共是两个女儿，除去唱歌的那个，剩下的“那一个”是演员。句意中已指明哪一个，所以要用定冠词。the other 后面省略掉 is。</Test>
+<Test q="13. He has two daughters; one is a singer and __ an actress." :c="['another','other','the other','the others']"><b>(C)</b> 上文有交待一共是两个女儿，除去唱歌的那个，剩下的“那一个”是演员。句意中已指明哪一个，所以要用定冠词。the other 后面省略掉 is。</Test>
 
-<Test q="14. He asked if eighty dollars was enough, and I said that __ twenty would do." :c="['more','another','other','the other']">(B) 80 元当中已有四个 20（或四张 20 元钞票）了，所以说“再来一个 20（another 20）就够了。”意思是凑成 100。</Test>
+<Test q="14. He asked if eighty dollars was enough, and I said that __ twenty would do." :c="['more','another','other','the other']"><b>(B)</b> 80 元当中已有四个 20（或四张 20 元钞票）了，所以说“再来一个 20（another 20）就够了。”意思是凑成 100。</Test>
 
-<Test q="15. Mary Kurt, __ of the troupe, was strongly against smoking." :c="['alto','the alto','an alto','altos']">(A) 空格位置是主语 Mary Kurt 的同位语，这个位置倾向于当专有名词看待。再加上这个乐团的女低音只有一人，符合专有名词的要求，因而不用冠词。</Test>
+<Test q="15. Mary Kurt, __ of the troupe, was strongly against smoking." :c="['alto','the alto','an alto','altos']"><b>(A)</b> 空格位置是主语 Mary Kurt 的同位语，这个位置倾向于当专有名词看待。再加上这个乐团的女低音只有一人，符合专有名词的要求，因而不用冠词。</Test>
 
-<Test q="16. This kind of ball-pen holds __ ink than that." :c="['less','fewer','much','little']">(A) ink 不可数，故可排除 B。再从 than that 来看，应是比较级，故排除 C 和 D。</Test>
+<Test q="16. This kind of ball-pen holds __ ink than that." :c="['less','fewer','much','little']"><b>(A)</b> ink 不可数，故可排除 B。再从 than that 来看，应是比较级，故排除 C 和 D。</Test>
 
-<Test q="17. John works harder than __ boy in his class." :c="['all other','any other','all the other','any']">(B) 空格后面的 boy 是单数，所以排除复数的 A 和 C。英语的比较级要求较严格：只能说比班上“别的”同学用功，不然会造成“包括比自己用功”的语病，所以要有 other 一词来限定范围。</Test>
+<Test q="17. John works harder than __ boy in his class." :c="['all other','any other','all the other','any']"><b>(B)</b> 空格后面的 boy 是单数，所以排除复数的 A 和 C。英语的比较级要求较严格：只能说比班上“别的”同学用功，不然会造成“包括比自己用功”的语病，所以要有 other 一词来限定范围。</Test>
 
-<Test q="18. I was told to take the pills __ six hours." :c="['each','every','other','the other']">(B) 多久一次，像 every day，every week，every two months，every century（相当于 every hundred years）—样，要用 every 这个限定词来表示。six hours 固然是复数，可是像 hours，miles，pounds 这种代表“单位”的字眼也可以当单数使用，例如：Three miles is a long way to walk.，所以 every six hours 并无冲突。</Test>
+<Test q="18. I was told to take the pills __ six hours." :c="['each','every','other','the other']"><b>(B)</b> 多久一次，像 every day，every week，every two months，every century（相当于 every hundred years）—样，要用 every 这个限定词来表示。six hours 固然是复数，可是像 hours，miles，pounds 这种代表“单位”的字眼也可以当单数使用，例如：Three miles is a long way to walk.，所以 every six hours 并无冲突。</Test>
 
-<Test q="19. The man was badly wounded, but there could still be __ hope." :c="['little','few','a little','a few']">(C) hope 不可数，所以从 A 和 C 来选。上下文要求用肯定语气：“还有希望”（从连接词 but 可以看出），所以用表示肯定的 a little。如果用 A，成为 little hope，只能表示否定语气：“希望渺茫”。</Test>
+<Test q="19. The man was badly wounded, but there could still be __ hope." :c="['little','few','a little','a few']"><b>(C)</b> hope 不可数，所以从 A 和 C 来选。上下文要求用肯定语气：“还有希望”（从连接词 but 可以看出），所以用表示肯定的 a little。如果用 A，成为 little hope，只能表示否定语气：“希望渺茫”。</Test>
 
-<Test q="20. __ these people are going to the concert." :c="['The most','Most of','Most','Almost']">(B) 空格后面有完整的名词短语，已经有限定词 these，所以不能直接再加限定词 most 在前面（most 在此并非表示“最”的副词，而是表示“大部分”的限定词)，只能用介系词 of 隔开。而且 most 在此既非一般解释为“最”的最高级，前面也就不应用定冠词 the。</Test>
+<Test q="20. __ these people are going to the concert." :c="['The most','Most of','Most','Almost']"><b>(B)</b> 空格后面有完整的名词短语，已经有限定词 these，所以不能直接再加限定词 most 在前面（most 在此并非表示“最”的副词，而是表示“大部分”的限定词)，只能用介系词 of 隔开。而且 most 在此既非一般解释为“最”的最高级，前面也就不应用定冠词 the。</Test>
