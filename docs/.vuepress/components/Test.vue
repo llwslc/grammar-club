@@ -14,7 +14,8 @@
 
     <div v-if="!n">
       <div class="test_answer" v-if="open">
-        <b>{{ a }}</b> <slot />
+        <b>{{ a }}</b>
+        <slot />
       </div>
 
       <div class="test_answer_btn" @click="open = !open">{{ open ? 'Hide' : 'Show' }} Answer</div>
