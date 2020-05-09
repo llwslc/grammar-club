@@ -10,17 +10,20 @@
       <div class="test_choice" v-for="(d, i) in c">({{ options[i] }}) {{ d }}</div>
     </div>
 
-    <div class="test_answer" v-if="open"><slot /></div>
+    <div v-if="!n">
+      <div class="test_answer" v-if="open"><slot /></div>
 
-    <div class="test_answer_btn" @click="open = !open">{{ open ? 'Hide' : 'Show' }} Answer</div>
+      <div class="test_answer_btn" @click="open = !open">{{ open ? 'Hide' : 'Show' }} Answer</div>
+    </div>
   </div>
 </template>
 
 <script>
 export default {
   props: {
-    q: String,
-    c: Array
+    q: String, // 问题
+    c: Array, // 选项
+    n: Boolean // 无答案
   },
   data: function() {
     return {
