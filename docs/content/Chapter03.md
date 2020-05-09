@@ -104,13 +104,19 @@
 
 - 例： I'm sure I <Note>have seen</Note> this face somewhere. （我肯定曾经见过这张脸。）
 
+<Tense img="/c3f14.png" />
+
 主要从句 I'm sure 的动词 am 表示是现在时间，除此之外，没有时间副词交代是什么时候“看到”这张脸的，只知道一定有见过。也就是说，“看到”的动作没有明确括出来是哪一个时段发生的，只有一个箭头的形状，表示截止时间是现在。在这一刻以前看到过都算数，以后才要去看则不算数。这就是现在时间完成式的条件，所以用 have seen（看过）。
 
 - 例： We <Note>have been</Note> working overtime <Note>for a week</Note> to fill your order. （我们连续加班一个星期赶出你订的货。）
 
+<Tense img="/c3f15.png" />
+
 把 be 动词当做动词看，那么再复杂的动词时态也只剩下两种变化，不是简单式就是完成式。这里用完成式，因为时间副词 for a week 是“到现在，算算有一个星期之久了”，这时候重点在于“算到现在已经有……了”，所以强调的是截止时间，是箭头形状的时间，要用完成式“已经”来配合，所以动词用 have been。后面的补语 working 是现在分词，表示持续性，也就是“一直在加班”，用来形容主语“我们”。动词 have been 是 be 动词，不必翻译，只要解释完成式的部分“已经”和时间副词“有一个星期”就可以了。
 
 - 例： The house <Note>has been</Note> redecorated twice since they <Note>moved in</Note>. （打从他们搬来算起，这栋房子已经被装修过两次了。）
+
+<Tense img="/c3f16.png" />
 
 这个句子的时间副词 since they moved in（打从他们搬来算起）虽然是表示开始计算的时间，可是语气的重点是“算到现在是多久”，所以仍然用完成式 has been。补语部分 redecorated 是过去分词，要加上被动的解释，成为“被装修”，来形容主语“房子”。
 
@@ -120,13 +126,19 @@
 
 - 例： Many soldiers <Note>had died</Note> from pneumonia <Note>before the discovecry of penicilin</Note>. （发现盘尼西林以前，已经有很多士兵死于肺炎。）
 
+<Tense img="/c3f17.png" />
+
 盘尼西林在 1928 年发现，可是这个句子的时间副词不是 in 1928 一个括弧，而是 before the discovery of penicillin，也就是 before 1928，是一个以 1928 年为截止时间的箭头形状，所以要用过去时间的完成式 had died。换句话说，这个句子说到的士兵从古罗马时代，一直到一次大战都可以算在里面，但 1928 年之后的就不算了，因为盘尼西林已经发现了。这就是过去完成式的条件。
 
 - 例： I <Note>had been</Note> smoking three packs of cigarettes a day <Note>before I decided to quit</Note>. （我决定戒烟之前，每天要抽三包烟。）
 
+<Tense img="/c3f18.png" />
+
 decided 是过去时间，而时间副词 before I decided 是“在我决定之前”，所以不是括弧而是箭头，以 decided 为截止时间。这就得用过去完成式 had been。补语 smoking three packs 是一个形容词短语，-ing 表示持续性，也就是每天都要抽三包烟，而且是“一直如此”，用来形容主语“我”。
 
 - 例： Japan <Note>had not been</Note> defeated yet <Note>by the time Germany surrendered</Note> unconditionally. （到德国无条件投降为止，日本尚未被打败。）
+
+<Tense img="/c3f19.png" />
 
 这个句子的时间副词是“算到德国投降为止”，所以是一个到过去时间截止的箭头。这就是过去完成式。动词 had not been 表示“尚未”，就是“已经”的相反。be 动词仍不必翻译。补语部分 defeated 是过去分词，表示被动的形容词，“被打败”用来形容主语“日本”。
 
@@ -136,13 +148,19 @@ decided 是过去时间，而时间副词 before I decided 是“在我决定之
 
 - 例： <Note>Next April</Note>, I <Note>will have worked</Note> here for 20 years. （到四月，我在这里就工作 20 年了。）
 
+<Tense img="/c3f20.png" />
+
 这个句子中有括出时间 next April，看起来好像要用简单式。可是另外还有一个时间副词 for 20 years，是一个箭头。你不可能在四月这个月内替公司工作 20 年，所以 next April 只是一个截止时间，表示“算到四月为止有 20 年”来修饰动词，所以要用完成式。动词前面加上 will，表示到现在还没有，要到四月才“会”做满 20 年，也就是未来时间的完成式。
 
 - 例： Come back <Note>at 5:00</Note>. Your car <Note>will have been</Note> fixed <Note>by then</Note>. （五点再来吧！到时候你的车一定已经修好了。）
 
+<Tense img="/c3f21.png" />
+
 你去修车厂拿车子，老板叫你五点再来。他的意思不是五点才要修你的车，而是说五点以前就一定先修好了，等你来拿。真正修好的时间可能是四点，也可能是三点也说不一定，反正不超过五点。这就是完成式的箭头形状时间；截止时间在未来，所以用未来完成式 will have been。be 动词没有意义，只要翻译时态“会已经”，来连接主语“车子”和补语“被修好”（fixed）。
 
 - 例： <Note>In two more minutes</Note>, she <Note>will have been</Note> talking on the phone <Note>for three hours</Note>! （再过两分钟，她就一直打了足足三小时的电话了！）
+
+<Tense img="/c3f22.png" />
 
 这位小姐也真能讲话。动词是 be 动词，连接主语 she 和补语 talking，“她一直讲”，-ing 的字尾表示持续性，当形容词看。“再过两分钟”是未来的一个截止点，算到那时候就有三小时了（for three hours），所以是完成式的箭头型时间，要用未来完成式的动词 will have been，“会已经”（有三小时）。再和主语“她”与补语“一直打”连在一起，意思就清楚了。
 
