@@ -177,3 +177,63 @@ decided 是过去时间，而时间副词 before I decided 是“在我决定之
 <b>三、完成式是以箭头型的时间来表达。</b>
 
 <b>四、be 动词后面的分词当作形容词补语。现在分词有正在进行的意思，过去分词有被动的意思。</b>
+
+## Test 3
+
+#### 练习一
+
+#### 请选出最适当的答案填入空格内，以使句子完整。
+
+<Test q="1. So far we __ nothing from him." :c="['have been heard', 'did not hear', 'have heard', 'have not heard']" a="(C)">so far（到目前为止）应用现在完成式，故排除过去式的 B。主语是 we，表示“我们听到”时应用主动态，故排除被动的 A。因空格后已有否定的 nothing，所以不选表示重复否定的 D。</Test>
+
+<Test q="2. At present a new road __ in that part of the city." :c="['is building', 'will be built', 'will have built', 'is being built']" a="(D)">at present 表“现在”，应用现在式，故排除未来式的 B 和 C。主语 road 与动词 build 配合，应用被动态表示“被建造”，故排除主动的 A。答案 D 表示“现在正在被建造中”。</Test>
+
+<Test q="3. Our city __ a great deal. It doesn't resemble the one of three years ago." :c="['changes', 'has changed', 'is changing', 'will change']" a="(B)">“现在它和三年前已大不相同”，可以看出，空格那个 change 要表示的是从三年前到现在的改变，因此选择现在完成式 B。A 和 C 其实也没错，表示它“经常在变”，不过这两个答案与题目第二句的呼应不及 B 密切。D 的未来式则和题目第二句有较大的冲突。</Test>
+
+<Test q="4. When Anna phoned me I had just finished my work and __ to take a bath." :c="['was starting', 'have started', 'starting', 'will start']" a="(A)">从 when Anna phoned me 以及 I had just finished 可看出时间在过去，因此表示现在时间的 B 和未来时间的 D 都可排除。又，空格前面有对等连接词 and，要求对称。在 A 和 C 之中只有 A 是动词短语，可以和前面的动词短语 had just finished 对称。</Test>
+
+<Test q="5. There __ some very bad storms recently." :c="['is', 'are', 'have been', 'have']" a="(C)">recently 表示“不久前到现在”，应用现在完成式。表示“有”的观念应用 There is/are 的句型，其现在完成式即是 have been（主语 storms 是复数）。</Test>
+
+<Test q="6. The future price of this stock __ by several factors." :c="['is going to determine', 'will determine', 'will be determining', 'will be determined']" a="(D)">从 future price（未来价格）可看出时间在未来。主语 price 与动词 determine 配合应用被动态，这点从空格后面的 by several factors 亦可看出。唯一正确的被动态是 D。</Test>
+
+<Test q="7. The camera was invented in the 19th century. At that time, most photographers __ professionals." :c="['are', 'were', 'have been', 'had been']" a="(B)">从 at that time 可看出时间在过去（19 世纪）。因明确表示出那一段时间，应用过去简单式，故选 B。</Test>
+
+<Test q="8. The whole area was flooded because it __ for weeks." :c="['rains', 'has rained', 'had been raining', 'was raining']" a="(C)">从主要从句 was flooded 可看出，淹水是过去时间，而造成淹水的原因“下雨”，只能在淹水之前发生，所以该用过去完成式。</Test>
+
+<Test q="9. By next Sunday you __ with us for three months." :c="['will have stayed', 'will stay', 'shall stay', 'have stayed']" a="(A)">next Sunday 表示未来时间，故排除现在时间的 D。然后介系词 by 表示“到……为止”，应用完成式，因而排除简单式的 B 和 C。</Test>
+
+<Test q="10. We could smell that someone __ a cigar." :c="['would be smoking', 'was smoked', 'had been smoking', 'would be smoked']" a="(C)">主语 someone 和动词 smoke（有人抽雪茄）配合应用主动态，故可排除被动的 B 和 D。而 A 的 would be smoking 表示“将抽未抽”，如此则和 we could smell（已闻得到）有冲突，故选过去完成式的 C，表示在那之前已有人在抽，才会留下味道。</Test>
+
+#### 练习二
+
+#### 请把括弧中的动词以适当的时态填入空格内，以使对话内容完整。
+
+<Test q="Boy: Do you want to go and see Gone with the Wind with me tonight?" n></Test>
+
+<Test q="Girl: No! I __ (1. see) it." a="have seen">看过，而不说何时看的，应用现在完成式。</Test>
+
+<Test q="Boy: Oh, really? When did you see it?" n></Test>
+
+<Test q="Girl: I __ (2. go) to see it the first day it was on-last Monday." a="went">既说出看的时间（last Monday），应用简单式。</Test>
+
+<Test q="Boy: To tell you the truth, I have seen it too. In fact, I __ (3. see)it before you did." a="had seen">时间是 before you did，只知在过去时间 you did 之前，未明言在何时，应用过去完成式。如果用 saw 也不算错，因为在 I saw 和 you did 之间有 before 相连，清楚交待两个动作的先后，不必倚赖过去完成式来交待。</Test>
+
+<Test q="Girl: That's impossible. I told you I saw it the first day it was on." n></Test>
+
+<Test q="Boy: But it's the truth! I ___ (4. see) it seven or eight years ago, the last time that old picture __ (5. come) in town." a="saw">因交待了“七八年前”，应用简单式。用 had seen 也不算错，这样的语气是“我看得比你早”，至于“七八年前看的”这点则在语气上不予强调。</Test>
+
+<Test a="came">因有 the last time 标出时间，应用简单式。</Test>
+
+<Test q="Girl: In that case, why did you ask me to go in the first place?" n></Test>
+
+<Test q="Boy: Well, I just __ (6. want) to go out with you tonight. Since you have seen the picture, will you go to the baseball game with me instead?" a="wanted">因为是回应 Why did you...?</Test>
+
+<Test q="Girl: I __ (7. guess) I will, if Father says Okay. But you will have to pick me up at my place." a="guess">这是这位小姐说话时的猜想，时间就是 now，应用现在式。</Test>
+
+<Test q="Boy: Great! I __ (8. see) you at 5:30 then. I'll bring my car." a="will see">因为说出 at 5:30 的未来时间。</Test>
+
+<Test q="Girl: But why 5:30? Why not seven o'clock?" n></Test>
+
+<Test q="Boy: Because the game ___ (9. start) by then. These evening games __ (10. begin) at 6:30, you know. Don't forget now, 5:30 at your place!" a="will have started">因为时间是 by then，也就是“到了那个时候”，老早开打了。没说几点开打，总之在那之前，这就是完成式。也可用 would have started，用 would 不是表示过去时间，而是表示假设语气，成为：“如果真的拖到七点才去的话，那就看不成了，非早点去不可！”这样的口吻。</Test>
+
+<Test a="begin">因为 these evening games 不只说今晚这场，而是“所有的晚场比赛都是”，也就是说包括今天的这一阵子都是如此，就得用现在简单式。</Test>
