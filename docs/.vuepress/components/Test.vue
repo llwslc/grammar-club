@@ -1,17 +1,21 @@
 <template>
   <div>
-    <div class="test_summary">
-      <div class="test_triangle_box">
-        <div class="test_triangle" :style="{ transform: open ? 'rotate(90deg)' : '' }"></div>
+    <div v-if="q && q.length > 0">
+      <div class="test_summary">
+        <div class="test_triangle_box">
+          <div class="test_triangle" :style="{ transform: open ? 'rotate(90deg)' : '' }"></div>
+        </div>
+        <div class="test_question">{{ q }}</div>
       </div>
-      <div class="test_question">{{ q }}</div>
-    </div>
-    <div class="test_choices" v-if="c && c.length > 0">
-      <div class="test_choice" v-for="(d, i) in c">({{ options[i] }}) {{ d }}</div>
+      <div class="test_choices" v-if="c && c.length > 0">
+        <div class="test_choice" v-for="(d, i) in c">({{ options[i] }}) {{ d }}</div>
+      </div>
     </div>
 
     <div v-if="!n">
-      <div class="test_answer" v-if="open"><slot /></div>
+      <div class="test_answer" v-if="open">
+        <b>{{ a }}</b> <slot />
+      </div>
 
       <div class="test_answer_btn" @click="open = !open">{{ open ? 'Hide' : 'Show' }} Answer</div>
     </div>
@@ -23,6 +27,7 @@ export default {
   props: {
     q: String, // 问题
     c: Array, // 选项
+    a: String, // 答案
     n: Boolean // 无答案
   },
   data: function() {
