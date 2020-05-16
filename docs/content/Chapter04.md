@@ -86,3 +86,87 @@
 
 从以上四点来看，不定词与助动词其实是同一种东西的相互变化，凡是不定词出现的地方，都可以看成是另外一个从句的省略：把主语省略，助动词改为不定词。
 
+## 不定词与动名词的区分
+
+传统语法所称的动状词（Verbals），包括现在分词（Ving）、过去分词（Ven）、动名词（Ving）与不定词（to V）等等。其中现在分词、过去分词是形容词类，不定词则是“不一定什么词类”：它可以当名词、形容词、副词使用。这就产生了一些混淆点。比如说，动词后面的宾语位置，必须用名词类。可是动名词和不定词都可以当做名词使用（分词只能当形容词，可以不必考虑)，到底应如何区分？这就要借助我们刚才的观察了。现在来看看几个具有代表性的动词：
+
+<b>一、plan</b>
+
+- 例： <Note note="S">They</Note> <Note note="V">plan</Note> <Note note="O">to marry next month</Note>. （他们计划下个月结婚。）
+
+这个句子的 to marry next month 是 plan 的宾语，必须用名词类。那么为什么用不定词 to marry，而不用动名词 marrying 呢？因为 to marry next month 就是 (that) they will marry next month 的变化。marry 是计划中的事情，下个月才要发生，是未来式。再把 they will marry 改成 they are to marry。这时候，如果把重复的主语 they 和空的 be 动词 are 省略掉，就成了不定词 to marry。
+
+<b>二、avoid</b>
+
+- 例： <Note note="S">I</Note> <Note note="V">avoid</Note> <Note note="O">making the same mistake twice</Note>. （我避免犯同样的错误。）
+
+这里用 making 比用 to make 恰当，因为 to make 是 will make 的省略，既然是“避免”，后面又用 will make（将要做），意思就变得不清楚了：
+
+- <Note note="S">I</Note> <Note note="V">avoid</Note> <Note note="O">something</Note>.
+
+- I will make the same mistake twice.
+
+一般语法书中规定 avoid 后面要用动名词，这是因为四种动状词中，只有动名词和不定词可以做名词类使用，也就是说：只有这两个可以当 avoid 的宾语。如果用不定词 to make，则带有 I will make 这种未来式的涵意，与 avoid 这种具有否定意思的动词并不适合并列，所以只剩下动名词 making 是唯一的选择了。
+
+<b>三、hate</b>
+
+- 例： <Note note="S">I</Note> <Note note="V">hate</Note> <Note note="O">to say this</Note>, but I think you're mistaken. （对不起，你错了。）
+
+在这个句子中，hate 固然也是否定的意思，可是后面却要接 to say，这是因为 to say 是 I have to say，也就是 I must say 的变化，表示“虽然很不愿意说，可是我不能不说。”
+
+<b>四、like/dislike</b>
+
+- 例： <Note note="S">I</Note> <Note note="V">like</Note> <Note note="O">to be the first</Note>. （我喜欢排第一。）
+
+- <p>&emsp;&emsp; <Note note="S">I</Note> <Note note="V">don't like</Note> <Note note="O">to wait too long</Note>. （我不喜欢等太久。）</p>
+
+- <p>&emsp;&emsp; <Note note="S">I</Note> <Note note="V">dislike</Note> <Note note="O">standing in long lines</Note>. （我讨厌排队。）</p>
+
+第一句中的 to be，可以视为 I can be 的变化。第二句中的 to wait 可以视为 I will wait 的变化，它可以做为 like 的宾语，成为 like to wait（愿意等），或变成否定句 don't like to wait（不喜欢等），这些都可以使用不定词。只有第三句，动词 dislike（不喜欢）本身是否定的，后面就不适合接 I will stand in long lines（愿意排队）。而且 dislike 不像 hate，它没有“必须”（have to）的暗示。所以 dislike 的后面接 to stand 就不适合了。既然不能用不定词，就只剩下动名词可以用了，所以要说 I dislike standing...。
+
+<b>五、try</b>
+
+- 例： <Note note="S">I</Note> always <Note note="V">try</Note> <Note note="O">to be on time</Note>. （我总是力求准时。）
+
+在这个句子中，to be on time 可视为 I can be on time 的变化。主要从句动词 try 有“尝试”的不确定意味，所以后面用不定词 to be on time，代表“希望能够准时”。可是，如果你每次约会都很准时，结果对方都迟到很久，别人就会指点你：下次故意迟到看看。
+
+- Why don't <Note note="S">you</Note> <Note note="V">try</Note> <Note note="O">being late</Note> for a change? （你何不故意迟到一次呢？）
+
+准时不是每次都能做到的，不可控制的因素太多了。所以只能说 I try to be on time，也就是 I try if I can be on time（希望能够，但没把握）。但是在上面那个句子中，试的事情是“迟到”，是任何人都有把握做到的，就不适合用 to be 了。比如说：
+
+- <Note note="S">I</Note> <Note note="V">try</Note> <Note note="O">to be late</Note>.
+
+这个句子很奇怪吧！I try if I can be late，说话的人努力要迟到，但不知能否成功。所以，回到刚才那个句子：Why don't you try being late for a change? 用 being late，而不用 to be late，是表示“迟到”是一定做得到的，至于动词 try 所暗示的不确定性，现在不在“迟到”一事的本身，而是在“试试看迟到一下的后果如何”。
+
+<b>六、remember</b>
+
+- 例： Please <Note note="V">remember</Note> <Note note="O">to give me a wake-up call at 6:00 tomorrow</Note>. （请记住，明早六点打电话叫我起床。）
+
+- <p>&emsp;&emsp; <Note note="S">I</Note> <Note note="V">remember</Note> <Note note="O">calling her at 6:00 last night</Note>. （我记得昨晚六点打电话给她。）</p>
+
+在前那句中，你交代服务生隔天六点打电话叫你起床，也就是交待他：
+
+- Please remember you must give me a call.
+
+这个电话还没打，时间是未来式。因为有这种不确定性，所以要用 must give 或 will give，也就演变成 to give。
+
+在第二个句子中，“我确实记得昨晚曾打电话”，也就是：
+
+- I remember that I called her last night.
+
+这时是确定的事实语气，没有助动词存在，也就不能变成不定词，所以只好用动名词 calling。
+
+<b>七、stop</b>
+
+- 例： <Note note="S">The speaker</Note> <Note note="V">stopped</Note> <Note note="O">talking</Note> at the second bell. （按第二次铃演讲人才停止发言。）
+
+在这里，talking 可以视为 he was talking 的变化，演讲是一直在持续进行的，然后才停止下来。所以用 talking 来表示动作的持续性，可是：
+
+- <Note note="S">The speaker</Note> <Note note="V">stopped</Note> a second to drink some water. （演讲人停顿一下，喝了些水。）
+
+在这个句子中，to drink 是 he could drink 的变化，整个句子可还原如下：
+
+- <Note note="S">The speaker</Note> <Note note="V">stopped</Note> a second so that he could drink some water.
+
+句子中 so that 引导的是副词从句“为了要喝口水”，它是修饰动词 stopped 的原因。改成不定词就成了 to drink some water，这个不定词短语仍然是副词类，修饰动词 stopped。
+
