@@ -24,13 +24,13 @@
 
 从这个例子可以看出，不定词与助动词的关系极为密切，我们可以利用这层关系来练习判断不定词的用法。首先，我们来观察一下不定词与助动词之间有什么共同点。
 
-<b>一、后面都要接原形动词</b>
+#### 一、后面都要接原形动词
 
 - 例： I <Note>will go</Note>. （我要走了。）
 
 - &emsp;&emsp; I want <Note>to go</Note>. （我想去。）
 
-<b>二、都有“不确定”的语气</b>
+#### 二、都有“不确定”的语气
 
 - 例： He is right. （他是对的。）
 
@@ -40,7 +40,7 @@
 
 第一句 He is right 是确定的语气，把“他是对的”当作事实来叙述。一旦加上助动词 may 之后，就成了不确定的语气。所以第二句 He may be right 只是一个推测，不是事实叙述。同样的，一旦用到不定词，也是不确定的语气。第三句 He seems to be right 也是推测，不是事实叙述。这种不确定语气是不定词与助动词之间一个很重要的共同点，可以用来判断何时该用不定词。
 
-<b>三、都要用完成式来表达相对的过去时间</b>
+#### 三、都要用完成式来表达相对的过去时间
 
 助动词与不定词本身都无法完整表达过去时间。如果你听到“哗啦哗啦”的声音从外面传来，可以说：
 
@@ -72,7 +72,7 @@
 
 这个句子的动词 seems 是现在式，表示“现在看起来”、“现在的推测”。可是推测的事情是昨天晚上的事，是过去的时间，所以“下雨”应该是过去式，但是不定词与助动词一样，本身缺乏表达过去的能力，而且它后面要接原形动词，也不能用过去式，所以只能用完成式来表示过去，变成 to have rained。这又是不定词和助动词的一个共同点。
 
-<b>四、所有重要的语气助动词，都可以改写为不定词</b>
+#### 四、所有重要的语气助动词，都可以改写为不定词
 
 请观察以下的对照：
 
@@ -90,13 +90,13 @@
 
 传统语法所称的动状词（Verbals），包括现在分词（Ving）、过去分词（Ven）、动名词（Ving）与不定词（to V）等等。其中现在分词、过去分词是形容词类，不定词则是“不一定什么词类”：它可以当名词、形容词、副词使用。这就产生了一些混淆点。比如说，动词后面的宾语位置，必须用名词类。可是动名词和不定词都可以当做名词使用（分词只能当形容词，可以不必考虑)，到底应如何区分？这就要借助我们刚才的观察了。现在来看看几个具有代表性的动词：
 
-<b>一、plan</b>
+#### 一、plan
 
 - 例： <Note note="S">They</Note> <Note note="V">plan</Note> <Note note="O">to marry next month</Note>. （他们计划下个月结婚。）
 
 这个句子的 to marry next month 是 plan 的宾语，必须用名词类。那么为什么用不定词 to marry，而不用动名词 marrying 呢？因为 to marry next month 就是 (that) they will marry next month 的变化。marry 是计划中的事情，下个月才要发生，是未来式。再把 they will marry 改成 they are to marry。这时候，如果把重复的主语 they 和空的 be 动词 are 省略掉，就成了不定词 to marry。
 
-<b>二、avoid</b>
+#### 二、avoid
 
 - 例： <Note note="S">I</Note> <Note note="V">avoid</Note> <Note note="O">making the same mistake twice</Note>. （我避免犯同样的错误。）
 
@@ -108,13 +108,13 @@
 
 一般语法书中规定 avoid 后面要用动名词，这是因为四种动状词中，只有动名词和不定词可以做名词类使用，也就是说：只有这两个可以当 avoid 的宾语。如果用不定词 to make，则带有 I will make 这种未来式的涵意，与 avoid 这种具有否定意思的动词并不适合并列，所以只剩下动名词 making 是唯一的选择了。
 
-<b>三、hate</b>
+#### 三、hate
 
 - 例： <Note note="S">I</Note> <Note note="V">hate</Note> <Note note="O">to say this</Note>, but I think you're mistaken. （对不起，你错了。）
 
 在这个句子中，hate 固然也是否定的意思，可是后面却要接 to say，这是因为 to say 是 I have to say，也就是 I must say 的变化，表示“虽然很不愿意说，可是我不能不说。”
 
-<b>四、like/dislike</b>
+#### 四、like/dislike
 
 - 例： <Note note="S">I</Note> <Note note="V">like</Note> <Note note="O">to be the first</Note>. （我喜欢排第一。）
 
@@ -124,7 +124,7 @@
 
 第一句中的 to be，可以视为 I can be 的变化。第二句中的 to wait 可以视为 I will wait 的变化，它可以做为 like 的宾语，成为 like to wait（愿意等），或变成否定句 don't like to wait（不喜欢等），这些都可以使用不定词。只有第三句，动词 dislike（不喜欢）本身是否定的，后面就不适合接 I will stand in long lines（愿意排队）。而且 dislike 不像 hate，它没有“必须”（have to）的暗示。所以 dislike 的后面接 to stand 就不适合了。既然不能用不定词，就只剩下动名词可以用了，所以要说 I dislike standing...。
 
-<b>五、try</b>
+#### 五、try
 
 - 例： <Note note="S">I</Note> always <Note note="V">try</Note> <Note note="O">to be on time</Note>. （我总是力求准时。）
 
@@ -138,7 +138,7 @@
 
 这个句子很奇怪吧！I try if I can be late，说话的人努力要迟到，但不知能否成功。所以，回到刚才那个句子：Why don't you try being late for a change? 用 being late，而不用 to be late，是表示“迟到”是一定做得到的，至于动词 try 所暗示的不确定性，现在不在“迟到”一事的本身，而是在“试试看迟到一下的后果如何”。
 
-<b>六、remember</b>
+#### 六、remember
 
 - 例： Please <Note note="V">remember</Note> <Note note="O">to give me a wake-up call at 6:00 tomorrow</Note>. （请记住，明早六点打电话叫我起床。）
 
@@ -156,7 +156,7 @@
 
 这时是确定的事实语气，没有助动词存在，也就不能变成不定词，所以只好用动名词 calling。
 
-<b>七、stop</b>
+#### 七、stop
 
 - 例： <Note note="S">The speaker</Note> <Note note="V">stopped</Note> <Note note="O">talking</Note> at the second bell. （按第二次铃演讲人才停止发言。）
 
