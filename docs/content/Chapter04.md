@@ -195,3 +195,27 @@ ask 是普通动词，邀请人参加，但别人愿不愿意是不确定的，�
 - <Note note="S">John</Note> <Note note="V">had</Note> <Note note="O">his car</Note> <Note note="C">painted over</Note>. （约翰把车子让人重新漆过了。）
 
 这个句子用过去分词也是正确的，至于为什么？我们留待第六章提到分词时再详细说明。
+
+## 感官动词与原形动词
+
+感官动词的后面接原形动词的道理，与使役动词是相同的：因为不定词的不确定性不适合这个上下文。
+
+- <Note note="S">I</Note> <Note note="V">heard</Note> <Note note="O">her</Note> <Note note="C">playing the violin</Note>. （我听见她在拉小提琴。）
+
+所谓感官动词，就是 see、hear、watch 等等。它们后面不适合用不定词，是因为不定词是助动词的变化，有不确定的语气。如果说 to play the violin，那就表示 she would play the violin（她想要或将要去拉小提琴），那么你听得到吗？所以感官动词这种“听到、看到”的字眼，只能配合确实发生的事使用，而不能和带有“不确定、未发生”涵意的不定词连用。
+
+那么，感官动词可否与现在分词一起使用呢？当然，如果她正在拉琴被我听到，那么用现在分词 playing 来表示持续性是最好的。可是：
+
+- <Note note="S">I</Note> <Note note="V">heard</Note> <Note note="O">her</Note> <Note note="C">cry out in pain</Note>. （我听到她痛得大叫一声。）
+
+如果像这个例子，只是大叫一声，叫声并不持续，那么用现在分词 crying 并不好，因为这样会变成：
+
+- She was crying in pain.（她很痛苦，一直哭。）
+
+这个意思就不一样了，所以不能用现在分词。既不能用不确定的不定词，也不是被动语态，不能用过去分词，就只好用原形动词了。
+
+## 结语
+
+本章介绍的是不定词短语，重点在于：不定词是助动词的变化，带有不确定语气。了解这个观念，就可以触类旁通，分析不定词的各种变化，以及它与动名词的区别。
+
+接下来请做做下面这篇练习。
