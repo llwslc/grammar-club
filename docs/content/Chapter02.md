@@ -80,7 +80,7 @@
 
 写主语补语时，要注意该补语是否为专有名词。写宾语补语时也是一样。例如：
 
-- Clinton made Gorle campaign partner of the Presidential election. （克林顿选择戈尔为总统大选竞选搭档。）
+- Clinton made Gorle <Note>campaign partner</Note> of the Presidential election. （克林顿选择戈尔为总统大选竞选搭档。）
 
 句中 campaign partner 没有限定词，当专有名词使用。因为它是“戈尔”的宾语补语，与其为同等关系。而副总统搭档只有一
 人，所以它便成为专有名词的用法。
@@ -127,7 +127,7 @@
 
 - This is not <Note>the John Smith</Note> I know. （这不是我所认识的约翰·史密斯。）
 
-- This is a photography show of <Note>the</Note> Taibei 50 years ago. （这是表现 50 年前的台北的摄影展。）
+- This is a photography show of <Note>the Taibei</Note> 50 years ago. （这是表现 50 年前的台北的摄影展。）
 
 第一句暗示还有另一个约翰·史密斯存在，或是他有另外一面，是我所不认识的。这时有两个约翰·史密斯存在，所以“约翰·史密斯”就不再是专有名词，可以用 this 或 that 来区分，这也就是为什么写 the John Smith 的原因了。还有，“50 年前那个台北”这句话暗示和今日台北不同了，有两个台北。这时台北也就成了普通名词，可以指来指去，所以要用 the Taibei 50 years ago 来表示。
 
