@@ -1,6 +1,6 @@
 # 第二章 名词短语与冠词
 
-名词短语是英语句子中不可或缺的元素。简单句的主语、宾语是它，补语也可以是它。除了主语、宾语、补语这些主要元素外，介词后面所接的宾语也是名词短语，所以名词短语使用的频率极高。不过名词短语很容易出错，尤其是冠词的部分，写作时一不小心就会用错。一般语法书处理这个问题时，通常会列出一长串规则，再附注一大堆例外，这种语法书，坦白说对于学英语的人并没有太大的帮助。本章就要和读者一同来探讨名词短语，尤其是冠词的用法。<b>本书中没有规则要背，自然也就不会有所谓的例外。只要经由理性的探讨，便足以涵盖传统文法所有的规则，</b>而且更深入、更灵活。
+名词短语是英语句子中不可或缺的元素。简单句的主语、宾语是它，补语也可以是它。除了主语、宾语、补语这些主要元素外，介系词后面所接的宾语也是名词短语，所以名词短语使用的频率极高。不过名词短语很容易出错，尤其是冠词的部分，写作时一不小心就会用错。一般语法书处理这个问题时，通常会列出一长串规则，再附注一大堆例外，这种语法书，坦白说对于学英语的人并没有太大的帮助。本章就要和读者一同来探讨名词短语，尤其是冠词的用法。<b>本书中没有规则要背，自然也就不会有所谓的例外。只要经由理性的探讨，便足以涵盖传统文法所有的规则，</b>而且更深入、更灵活。
 
 ## 名词短语
 
@@ -32,7 +32,7 @@
 
 从语源学（etymology）的角度来看，冠词 a(n) 可以视为 one 一字的弱化（reduction）结果。也就是说，a(n) 就代表 one 的意思，只是语气比较弱。a(n) 与 one 同样都是在交代它后面所接的名词是“一个”的概念。如果后面的名词不适合以“一个”来交代，也就是不适合加 a(n) 的话，就可把限定词这个位置空下来。例如：
 
-- &nbsp;<Note>Unmarried men</Note> are a rare species these days. （未婚男性目前是稀有品种了。）
+- <Note>Unmarried men</Note> are a rare species these days. （未婚男性目前是稀有品种了。）
 
 在名词短语 unmarried men 中，只有形容词（unmarried）和名词（men）两个部分，而没有限定词。这是因为 men 一字已清楚表示名词是复数，自然不能再用 an 来表示“一个”，这时就可以把限定词省略。在 a new book 中，book 是单数形态，因此要用限定词来配合标示它。所以，如果只说 new book，就变成不完整的表示。
 
@@ -180,13 +180,13 @@
 
 #### 请选出最适当的答案填入空格内，以使句子完整。
 
-<Test q="1. The carpenter repaired __ ." :c="['the table\'s legs','table\'s legs','legs of the table','the legs of the table']" a="(D)">所有格有两种表示方式：人与其他生物可用 's 的形式，无生物则用 of... 的介系词短语形式来表示。本题的 table 是无生物，故只能从 C 和 D 之间选择。因为有 of the table 修饰前面的 legs，表示出来是“哪些”脚，所以要有定冠词 the。</Test>
+<Test q="1. The carpenter repaired __." :c="['the table\'s legs','table\'s legs','legs of the table','the legs of the table']" a="(D)">所有格有两种表示方式：人与其他生物可用 's 的形式，无生物则用 of... 的介系词短语形式来表示。本题的 table 是无生物，故只能从 C 和 D 之间选择。因为有 of the table 修饰前面的 legs，表示出来是“哪些”脚，所以要有定冠词 the。</Test>
 
 <Test q="2. Mr. Smith has three __ under his name." :c="['shoe stores','shoes stores','shoe store','shoestores']" a="(A)">复合名词，前面的 shoe 放在形容词位置，只能用单数。后面的 store 要用复数，因为有限定词 three。D 的 shoestores 是错误拼法，两个词不能连起来。</Test>
 
 <Test q="3. The house sits on a __ road." :c="['twelve feet in width','of twelve feet','twelve-foot-wide','twelve-feet']" a="(C)">冠词（a）与名词（road）之间是形容词位置，而且只能放单词，不能放短语，故从 C 和 D 来选。既然是形容词，没有复数可言，故排除掉 D。</Test>
 
-<Test q="4. These men and women are all __ ." :c="['language\'s teachers','languages teachers','language teachers','languages\' teachers']" a="(C)">“语言教师”是复合名词，故由 B 和 C 之间来选。前面 language 的位置是形容词位置，没有复数，故选 C。</Test>
+<Test q="4. These men and women are all __." :c="['language\'s teachers','languages teachers','language teachers','languages\' teachers']" a="(C)">“语言教师”是复合名词，故由 B 和 C 之间来选。前面 language 的位置是形容词位置，没有复数，故选 C。</Test>
 
 <Test q="5. He ordered __ for breakfast." :c="['orange juice, bread and butter, coffee, and bacon, and eggs','orange, juice, bread, and butter, coffee and bacon and eggs','orange juice, bread and butter, coffee, and bacon and eggs']" a="(C)">bread and butter（奶油吐司）是一种食品，两个词都不可数，不需要限定词，构成一个名词短语，因而中间不能有逗号。bacon and eggs (火腿蛋）亦然。这里的 bacon 不可数，eggs 是复数，亦不需要限定词。</Test>
 
@@ -202,7 +202,7 @@
 
 <Test q="11. Whether you serve coffee or tea doesn't matter; __ will do." :c="['any','either','some','all']" a="(B)">两者（coffee，tea）之间任选其一，应用 either，三者以上才用 any。</Test>
 
-<Test q="12. As we have finished the first chapter, now we will read __ ." :c="['second','the second','second one','the two']" a="(B)">the second 代表 the second chapter，与上文的 the first chapter 对称。</Test>
+<Test q="12. As we have finished the first chapter, now we will read __." :c="['second','the second','second one','the two']" a="(B)">the second 代表 the second chapter，与上文的 the first chapter 对称。</Test>
 
 <Test q="13. He has two daughters; one is a singer and __ an actress." :c="['another','other','the other','the others']" a="(C)">上文有交待一共是两个女儿，除去唱歌的那个，剩下的“那一个”是演员。句意中已指明哪一个，所以要用定冠词。the other 后面省略掉 is。</Test>
 
