@@ -114,7 +114,7 @@
 
 把 be 动词当做动词看，那么再复杂的动词时态也只剩下两种变化，不是简单式就是完成式。这里用完成式，因为时间副词 for a week 是“到现在，算算有一个星期之久了”，这时候重点在于“算到现在已经有……了”，所以强调的是截止时间，是箭头形状的时间，要用完成式“已经”来配合，所以动词用 have been。后面的补语 working 是现在分词，表示持续性，也就是“一直在加班”，用来形容主语“我们”。动词 have been 是 be 动词，不必翻译，只要解释完成式的部分“已经”和时间副词“有一个星期”就可以了。
 
-- 例： The house <Note>has been</Note> redecorated twice since they <Note>moved in</Note>. （打从他们搬来算起，这栋房子已经被装修过两次了。）
+- 例： The house <Note>has been</Note> redecorated twice <Note>since they moved in</Note>. （打从他们搬来算起，这栋房子已经被装修过两次了。）
 
 <Tense img="/c3f16.png" />
 
