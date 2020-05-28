@@ -226,7 +226,7 @@ ask 是普通动词，邀请人参加，但别人愿不愿意是不确定的，�
 
 <Test q="1. Not wishing to attend the dance, Marie __ that she had a fever." :c="['made believed', 'make believe', 'makes believe', 'made believe']" a="(D)">从 she had a fever 可看出时间在过去，因而排除现在时间的 B 和 C。made 是“使役动词”，所以后面用原形动词的 believe。若 make believe 二字连用时即表示“假装”，已成为常用的短语。</Test>
 
-<Test q="2. He is said by his friends __ ." :c="['to be gentle and gracious', 'to have graciousness and gentle', 'gentle and a gracious man', 'that is a gentle and gracious man']" a="(A)">动词 is said（据说）暗示“并不确定”，所以要配合不定词使用，可先删去非不定词的 C 和 D。在 A 和 B 中有对等连接词 and，其左右要对称。B 中的 graciousness 是名词，和 gentle 这个形容词不对称，故选 A（gentle 和 gracious 都是形容词）。</Test>
+<Test q="2. He is said by his friends __." :c="['to be gentle and gracious', 'to have graciousness and gentle', 'gentle and a gracious man', 'that is a gentle and gracious man']" a="(A)">动词 is said（据说）暗示“并不确定”，所以要配合不定词使用，可先删去非不定词的 C 和 D。在 A 和 B 中有对等连接词 and，其左右要对称。B 中的 graciousness 是名词，和 gentle 这个形容词不对称，故选 A（gentle 和 gracious 都是形容词）。</Test>
 
 <Test q="3. __ any aspect of animal behavior, the biologist must first determine the laws influencing animal behavior." :c="['Explain', 'To explain', 'One explains', 'The explanation of']" a="(B)">主语 the biologist 和动词 must first determine 配合构成一个独立从句，它的前面若加上一个动词（如 A），一个没有连接词的从句（如 C），或是一个名词短语（如 D），都会造成句型的错误，只有 B 的不定词短语是修饰语的性质，可以附在独立从句上而不影响它的句型。</Test>
 
@@ -242,7 +242,7 @@ ask 是普通动词，邀请人参加，但别人愿不愿意是不确定的，�
 
 <Test q="9. The bus driver told the man __ his naughty son to hang out the window." :c="['to don\'t allow', 'not to allow', 'not allowing', 'don\'t allowing']" a="(B)">told the man 在此是“叫别人去做……”之意，含有要求的味道，也就是 The driver said to the man that he should...之意，因此后面应用不定词，故从 A 和 B 来选。而不定词不是限定动词，不能加助动词 don’t 来作否定句，只能用 not，故选 B。</Test>
 
-<Test q="10. To get an education, __ ." :c="['one must work hard', 'working hard is necessary', 'there is need to work hard', 'hard work is needed']" a="(A)">to get an education 是 so that（或 in order that）one can get an education 的意思，所以后面的主要从句应用 one 作主语。</Test>
+<Test q="10. To get an education, __." :c="['one must work hard', 'working hard is necessary', 'there is need to work hard', 'hard work is needed']" a="(A)">to get an education 是 so that（或 in order that）one can get an education 的意思，所以后面的主要从句应用 one 作主语。</Test>
 
 <Test q="11. The purpose of the investigation is __ the suspect's degree of involvement in the crime." :c="['to ascertaining', 'ascertaining', 'to ascertain', 'ascertained']" a="(C)">主语 the purpose 是“目的”，而 be 动词后面的空格是主语补语位置，也就表示目的，所以要用不定词短语 to（代表 in order to）ascertain（想确定一下）。</Test>
 
@@ -260,6 +260,6 @@ ask 是普通动词，邀请人参加，但别人愿不愿意是不确定的，�
 
 <Test q="18. He always has his shoes __ at the railway station." :c="['shone', 'to shine', 'shining', 'shined']" a="(D)">后面一半可还原为 His shoes are shined...（他的鞋在……给人擦）。把主语 shoes 改成宾语，补语 shined 改成宾语补语，即是答案。</Test>
 
-<Test q="19. Don't sit up too late, for night is a time __ ." :c="['resting', 'to rest', 'that rests', 'when rest']" a="(B)">to rest 是 when you should rest 的变化。C 用形容词从句表示是“夜晚本身在休息”，D 的 when rest 则缺了主语。</Test>
+<Test q="19. Don't sit up too late, for night is a time __." :c="['resting', 'to rest', 'that rests', 'when rest']" a="(B)">to rest 是 when you should rest 的变化。C 用形容词从句表示是“夜晚本身在休息”，D 的 when rest 则缺了主语。</Test>
 
 <Test q="20. He was made __ the Bible every night before going to bed." :c="['read', 'to read', 'reading', 'reads']" a="(B)">make 虽是使役动词，要用原形动词作补语，可是在被动态中就得把 to 放回去，成为不定词。</Test>
