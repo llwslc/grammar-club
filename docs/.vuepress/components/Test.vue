@@ -5,10 +5,13 @@
         <div class="test_triangle_box">
           <div class="test_triangle" :style="{ transform: open ? 'rotate(90deg)' : '' }"></div>
         </div>
-        <div class="test_question">{{ q }}</div>
+        <div>{{ q }}</div>
       </div>
       <div class="test_choices" v-if="c && c.length > 0">
-        <div class="test_choice" v-for="(d, i) in c">({{ options[i] }}) {{ d }}</div>
+        <div class="test_choice" v-for="(d, i) in c">
+          <div>({{ options[i] }})&nbsp;</div>
+          <div>{{ d }}</div>
+        </div>
       </div>
     </div>
 
@@ -42,11 +45,13 @@ export default {
 
 <style lang="stylus">
 .test_summary
+  display: flex;
   margin-top: 1em;
+  line-height: 1.7;
 
 .test_triangle_box
-  width: 1em;
-  float:left;
+  min-width: 1em;
+  float: left;
   .test_triangle
     margin-top: 0.5em;
     width: 0;
@@ -55,13 +60,10 @@ export default {
     border-left: 0.36 * 1.734em solid;
     border-bottom: 0.36em solid transparent;
 
-.test_question
-  display: inline;
-  line-height: 1.7;
-
 .test_choices
   margin-left: 1em;
   .test_choice
+    display: flex;
     line-height: 1.7;
 
 .test_answer
