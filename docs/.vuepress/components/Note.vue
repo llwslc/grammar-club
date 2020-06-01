@@ -1,6 +1,7 @@
 <template>
   <span class="note_main">
-    <b class="note_title"><slot /></b>
+    <span v-if="normal"><slot /></span>
+    <b v-else class="note_title"><slot /></b>
     <b v-if="note">{{ note }}</b>
   </span>
 </template>
@@ -8,6 +9,7 @@
 <script>
 export default {
   props: {
+    normal: Boolean,
     note: String
   }
 };
