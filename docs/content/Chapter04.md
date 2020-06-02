@@ -102,7 +102,7 @@
 
 这里用 making 比用 to make 恰当，因为 to make 是 will make 的省略，既然是“避免”，后面又用 will make（将要做），意思就变得不清楚了：
 
-- <Note note="S">I</Note> <Note note="V">avoid</Note> <Note note="O">something</Note>.
+- &nbsp;<Note note="S">I</Note> <Note note="V">avoid</Note> <Note note="O">something</Note>.
 
 - I will make the same mistake twice.
 
@@ -134,7 +134,7 @@
 
 准时不是每次都能做到的，不可控制的因素太多了。所以只能说 I try to be on time，也就是 I try if I can be on time（希望能够，但没把握）。但是在上面那个句子中，试的事情是“迟到”，是任何人都有把握做到的，就不适合用 to be 了。比如说：
 
-- <Note note="S">I</Note> <Note note="V">try</Note> <Note note="O">to be late</Note>.
+- &nbsp;<Note note="S">I</Note> <Note note="V">try</Note> <Note note="O">to be late</Note>.
 
 这个句子很奇怪吧！I try if I can be late，说话的人努力要迟到，但不知能否成功。所以，回到刚才那个句子：Why don't you try being late for a change? 用 being late，而不用 to be late，是表示“迟到”是一定做得到的，至于动词 try 所暗示的不确定性，现在不在“迟到”一事的本身，而是在“试试看迟到一下的后果如何”。
 
@@ -162,11 +162,11 @@
 
 在这里，talking 可以视为 he was talking 的变化，演讲是一直在持续进行的，然后才停止下来。所以用 talking 来表示动作的持续性，可是：
 
-- <Note note="S">The speaker</Note> <Note note="V">stopped</Note> a second to drink some water. （演讲人停顿一下，喝了些水。）
+- &nbsp;<Note note="S">The speaker</Note> <Note note="V">stopped</Note> a second to drink some water. （演讲人停顿一下，喝了些水。）
 
 在这个句子中，to drink 是 he could drink 的变化，整个句子可还原如下：
 
-- <Note note="S">The speaker</Note> <Note note="V">stopped</Note> a second so that he could drink some water.
+- &nbsp;<Note note="S">The speaker</Note> <Note note="V">stopped</Note> a second so that he could drink some water.
 
 句子中 so that 引导的是副词从句“为了要喝口水”，它是修饰动词 stopped 的原因。改成不定词就成了 to drink some water，这个不定词短语仍然是副词类，修饰动词 stopped。
 
@@ -174,25 +174,25 @@
 
 了解不定词是什么，就能了解使役动词的后面为什么要接原形动词。我们先来比较一下使役动词和一般动词有什么差别。
 
-- <Note note="S">The little girl</Note> <Note note="V">asked</Note> <Note note="O">her mother</Note> <Note note="C">to come to the PTA meeting</Note>. （小女孩邀请妈妈来开母姊会。）
+- &nbsp;<Note note="S">The little girl</Note> <Note note="V">asked</Note> <Note note="O">her mother</Note> <Note note="C">to come to the PTA meeting</Note>. （小女孩邀请妈妈来开母姊会。）
 
 这个句子可以改写为：
 
-- <Note note="S">The little girl</Note> <Note note="V">asked</Note> <Note note="O">if her mother would come to the PTA meeting</Note>.
+- &nbsp;<Note note="S">The little girl</Note> <Note note="V">asked</Note> <Note note="O">if her mother would come to the PTA meeting</Note>.
 
 ask 是普通动词，邀请人参加，但别人愿不愿意是不确定的，所以会牵涉到语气助动词 would come，这就会变成不定词 to come。
 
 使役动词与普通动词的差别就在于它有强制性，它的结果是确定的、无从选择的。因为这种确定性的语气，排除了助动词存在的空间，因而也就不能用不定词。
 
-- <Note note="S">The teacher</Note> <Note note="V">made</Note> <Note note="O">the little girl</Note> <Note note="C">stay behind</Note>. （老师叫小女孩留下来。）
+- &nbsp;<Note note="S">The teacher</Note> <Note note="V">made</Note> <Note note="O">the little girl</Note> <Note note="C">stay behind</Note>. （老师叫小女孩留下来。）
 
 如果老师客客气气地问：Will you stay behind? 就会成为下面这句叙述：
 
-- <Note note="S">The teacher</Note> <Note note="V">asked</Note> <Note note="O">the little girl</Note> <Note note="C">to stay behind</Note>.
+- &nbsp;<Note note="S">The teacher</Note> <Note note="V">asked</Note> <Note note="O">the little girl</Note> <Note note="C">to stay behind</Note>.
 
 这个小女孩有选择的自由，她愿不愿意留下来这点还不确定，所以会有助动词，也就会变成不定词。可是如果老师是命令她留下来，没有选择的余地，那么老师说的就是：Stay behind! 请注意：命令句的原形动词，表示的就是强迫的语气。它要求结果是确定的，已经没有助动词存在的空间，这时候就不会变成不定词，而是原形动词。<b>像 let、have、make 等使役动词，后面是接原形而不能用不定词</b>，就是因为这种强迫性的命令语气，使它的结果不具有不确定性，因而不能用不定词。当然这并不表示使役动词的后面只能用原形动词，例如：
 
-- <Note note="S">John</Note> <Note note="V">had</Note> <Note note="O">his car</Note> <Note note="C">painted over</Note>. （约翰把车子让人重新漆过了。）
+- &nbsp;<Note note="S">John</Note> <Note note="V">had</Note> <Note note="O">his car</Note> <Note note="C">painted over</Note>. （约翰把车子让人重新漆过了。）
 
 这个句子用过去分词也是正确的，至于为什么？我们留待第六章提到分词时再详细说明。
 
@@ -200,13 +200,13 @@ ask 是普通动词，邀请人参加，但别人愿不愿意是不确定的，�
 
 感官动词的后面接原形动词的道理，与使役动词是相同的：因为不定词的不确定性不适合这个上下文。
 
-- <Note note="S">I</Note> <Note note="V">heard</Note> <Note note="O">her</Note> <Note note="C">playing the violin</Note>. （我听见她在拉小提琴。）
+- &nbsp;<Note note="S">I</Note> <Note note="V">heard</Note> <Note note="O">her</Note> <Note note="C">playing the violin</Note>. （我听见她在拉小提琴。）
 
 所谓感官动词，就是 see、hear、watch 等等。它们后面不适合用不定词，是因为不定词是助动词的变化，有不确定的语气。如果说 to play the violin，那就表示 she would play the violin（她想要或将要去拉小提琴），那么你听得到吗？所以感官动词这种“听到、看到”的字眼，只能配合确实发生的事使用，而不能和带有“不确定、未发生”涵意的不定词连用。
 
 那么，感官动词可否与现在分词一起使用呢？当然，如果她正在拉琴被我听到，那么用现在分词 playing 来表示持续性是最好的。可是：
 
-- <Note note="S">I</Note> <Note note="V">heard</Note> <Note note="O">her</Note> <Note note="C">cry out in pain</Note>. （我听到她痛得大叫一声。）
+- &nbsp;<Note note="S">I</Note> <Note note="V">heard</Note> <Note note="O">her</Note> <Note note="C">cry out in pain</Note>. （我听到她痛得大叫一声。）
 
 如果像这个例子，只是大叫一声，叫声并不持续，那么用现在分词 crying 并不好，因为这样会变成：
 
