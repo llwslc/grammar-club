@@ -36,7 +36,6 @@ module.exports = {
         {
           title: '第三篇 高级句型--简化从句',
           collapsable: false,
-          sidebarDepth: 2,
           children: ['Chapter16', 'Chapter17', 'Chapter18', 'Chapter19', 'Chapter20', 'Chapter21', 'Chapter22']
         }
       ]
