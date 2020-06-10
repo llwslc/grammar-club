@@ -1,15 +1,21 @@
 <template>
   <span class="note_main">
     <span v-if="normal"><slot /></span>
+    <u v-else-if="ul"><slot /></u>
     <b v-else class="note_title"><slot /></b>
-    <b v-if="note">{{ note }}</b>
+
+    <span v-if="note">
+      <span v-if="ul">{{ note }}</span>
+      <b v-else>{{ note }}</b>
+    </span>
   </span>
 </template>
 
 <script>
 export default {
   props: {
-    normal: Boolean,
+    normal: Boolean, // 无下划线，note 加粗
+    ul: Boolean, // 有下划线，note 正常
     note: String
   }
 };
