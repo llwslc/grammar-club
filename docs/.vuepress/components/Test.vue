@@ -2,16 +2,28 @@
   <div>
     <div v-if="q && q.length > 0">
       <div class="test_summary">
-        <div class="test_triangle_box">
-          <div class="test_triangle" :style="{ transform: open ? 'rotate(90deg)' : '' }"></div>
+        <div v-if="!nt">
+          <div class="test_triangle_box">
+            <div class="test_triangle" :style="{ transform: open ? 'rotate(90deg)' : '' }"></div>
+          </div>
         </div>
-        <div>{{ q }}</div>
+        <div :style="{ marginLeft: nt ? '1em' : '' }">{{ q }}</div>
       </div>
+
       <div class="test_choices" v-if="c && c.length > 0">
         <div class="test_choice" v-for="(d, i) in c">
           <div>({{ options[i] }})&nbsp;</div>
           <div>{{ d }}</div>
         </div>
+      </div>
+    </div>
+
+    <div v-if="qs">
+      <div class="test_summary">
+        <div class="test_triangle_box">
+          <div class="test_triangle" :style="{ transform: open ? 'rotate(90deg)' : '' }"></div>
+        </div>
+        <div><slot /></div>
       </div>
     </div>
 
@@ -32,7 +44,9 @@ export default {
     q: String, // 问题
     c: Array, // 选项
     a: String, // 答案
-    n: Boolean // 无答案
+    n: Boolean, // 无答案 -> 3 & 14 章
+    nt: Boolean, // 无三角 -> 14 章
+    qs: Boolean // 有三角 -> 17 章
   },
   data: function() {
     return {
