@@ -8,9 +8,10 @@
 
 ### 项目说明
 
-- 看到了《语法俱乐部》电子化的[项目](https://zhusandiao.gitbook.io/grammar-club/)，与扫描版略有不同，作者加入了自己的标注，删减与本土化。
+- 看到了《语法俱乐部》电子化的[项目](https://zhusandiao.gitbook.io/grammar-club/)，与扫描版略有不同，作者加入了自己的标注，删减与本土化，也有一些错误。
 - 珠玉在前，但希望根据扫描版完成本《语法俱乐部》电子化项目。
 - 本《语法俱乐部》电子版，使用 [VuePress](https://vuepress.vuejs.org/zh/) 生成。
+- 如有错误，可以在此 [issues](/issues) 提出。
 
 ### 作者简介
 
