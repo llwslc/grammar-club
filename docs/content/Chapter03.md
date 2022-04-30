@@ -78,7 +78,7 @@
 
 未来时间的简单式，只是把括弧放在 now 的右边，其他的原理则完全相同。至于里面会有一些牵涉到语气问题的变化，在本章会做初步的解说，详细的说明则留待第九章再作讨论。
 
-- 例： There <Note>well be</Note> a major election <Note>in March</Note>. （三月将有一次大选。）
+- 例： There <Note>will be</Note> a major election <Note>in March</Note>. （三月将有一次大选。）
 
 <Tense img="/c3f11.png" />
 
@@ -90,7 +90,7 @@
 
 明天六点，是六点整那一刻，所以是一个最小的括弧，因为是在 now 的右边，所以要用未来简单式。把 be 动词当动词看，未来简单式 will be 后面的 sleeping 就要当形容词补语。而词尾 -ing 表示持续性。所以 sleeping 是“在睡觉”，用来形容主语“我”。动词 will be 当中，连缀动词 be 没有意义，只要解释 will 的部分“会”即可。
 
-- 例： The building <Note>well be</Note> razed <Note>next month</Note>. （这房子下个月拆除。）
+- 例： The building <Note>will be</Note> razed <Note>next month</Note>. （这房子下个月拆除。）
 
 <Tense img="/c3f13.png" />
 
