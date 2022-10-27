@@ -86,6 +86,7 @@ export default {
   line-height: 1.7;
 
 .test_answer_btn
+  cursor: pointer;
   margin-left: 2em;
   margin-top: 2em;
   font-size: 8px;
