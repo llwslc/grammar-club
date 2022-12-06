@@ -124,7 +124,7 @@
 
 如果没有特别交代的话，一般说“有……过”就是“到现在有……过”，所以都是现在完成式。用过去完成式时则要有一个过去的截止时间，也就是箭头指在一个过去时间，在那之前就 “有……过”。
 
-- 例： Many soldiers <Note>had died</Note> from pneumonia <Note>before the discovery of penicilin</Note>. （发现盘尼西林以前，已经有很多士兵死于肺炎。）
+- 例： Many soldiers <Note>had died</Note> from pneumonia <Note>before the discovery of penicillin</Note>. （发现盘尼西林以前，已经有很多士兵死于肺炎。）
 
 <Tense img="/c3f17.png" />
 
