@@ -76,7 +76,7 @@
 
 - Mattin Wales, <Note>Head</Note> of the football team, at the time, wore a mustache. （马丁·韦尔斯，当时的足球队长，留有小胡子。）
 
-句中 Head of the football team 一般称为同位语，其实就是 who was Head of the football team at thetime 这个形容词从句的省略。其中 who 代表马丁·韦尔斯，而 Head 则是主语补语，和马丁·韦尔斯是同等关系，所以仍然算是专有名词，不必用限定词。
+句中 Head of the football team 一般称为同位语，其实就是 who was Head of the football team at the time 这个形容词从句的省略。其中 who 代表马丁·韦尔斯，而 Head 则是主语补语，和马丁·韦尔斯是同等关系，所以仍然算是专有名词，不必用限定词。
 
 写主语补语时，要注意该补语是否为专有名词。写宾语补语时也是一样。例如：
 
