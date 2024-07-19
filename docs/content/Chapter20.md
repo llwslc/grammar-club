@@ -206,45 +206,25 @@ be 动词是没有内容的字眼。在此加上 being 一词，纯粹是因应�
 
 #### 将下列各句中的副词从句（即画底线部分）改写为简化从句：
 
-<Test n qs>1. <u>After he was told to report to his supervisor</u>, the clerk left in a hurry.</Test>
+<Test q="1. <u>After he was told to report to his supervisor</u>, the clerk left in a hurry."><u>(Having been) told to report to his supervisor</u>, the clerk left in a hurry.</Test>
 
-<Test><u>(Having been) told to report to his supervisor</u>, the clerk left in a hurry.</Test>
+<Test q="2. <u>Although he was ordered to leave</u>, the soldier did not move an inch."><u>Although ordered to leave</u>, the soldier did not move an inch.</Test>
 
-<Test n qs>2. <u>Although he was ordered to leave</u>, the soldier did not move an inch.</Test>
+<Test q="3. The plan must be modified <u>before it is put into effect</u>.">The plan must be modified <u>before being put into effect</u>.</Test>
 
-<Test><u>Although ordered to leave</u>, the soldier did not move an inch.</Test>
+<Test q="4. <u>Because it had been bombed twice in the previous week</u>, the village was a total wreck."><u>(Having been) bombed twice in the previous week</u>, the village was a total wreck.</Test>
 
-<Test n qs>3. The plan must be modified <u>before it is put into effect</u>.</Test>
+<Test q="5. <u>When all things are considered</u>, I cannot truly say that this was an accident."><u>All things considered</u>, I cannot truly say that this was an accident.</Test>
 
-<Test>The plan must be modified <u>before being put into effect</u>.</Test>
+<Test q="6. <u>When the job was done</u>, the secretary went home."><u>The job done</u>, the secretary went home.</Test>
 
-<Test n qs>4. <u>Because it had been bombed twice in the previous week</u>, the village was a total wreck.</Test>
+<Test q="7. He took on two extra jobs <u>so that he could feed his family</u>.">He took on two extra jobs <u>(so as) to feed his family</u>.</Test>
 
-<Test><u>(Having been) bombed twice in the previous week</u>, the village was a total wreck.</Test>
+<Test q="8. <u>If you are in doubt</u>, you should look up the word in the dictionary."><u>If in doubt</u>, you should look up the word in the dictionary.</Test>
 
-<Test n qs>5. <u>When all things are considered</u>, I cannot truly say that this was an accident.</Test>
+<Test q="9. <u>Because pork is so expensive</u>, I'm buying beef instead."><u>With pork so expensive</u>, I'm buying beef instead. <br /> 或 <br /> <u>Pork being so expensive</u>, I'm buying beef instead.</Test>
 
-<Test><u>All things considered</u>, I cannot truly say that this was an accident.</Test>
-
-<Test n qs>6. <u>When the job was done</u>, the secretary went home.</Test>
-
-<Test><u>The job done</u>, the secretary went home.</Test>
-
-<Test n qs>7. He took on two extra jobs <u>so that he could feed his family</u>.</Test>
-
-<Test>He took on two extra jobs <u>(so as) to feed his family</u>.</Test>
-
-<Test n qs>8. <u>If you are in doubt</u>, you should look up the word in the dictionary.</Test>
-
-<Test><u>If in doubt</u>, you should look up the word in the dictionary.</Test>
-
-<Test n qs>9. <u>Because pork is so expensive</u>, I'm buying beef instead.</Test>
-
-<Test><u>With pork so expensive</u>, I'm buying beef instead. <br /> 或 <br /> <u>Pork being so expensive</u>, I'm buying beef instead.</Test>
-
-<Test n qs>10. <u>When we consider his handicap</u>, he has done very well indeed.</Test>
-
-<Test><u>Considering his handicap</u>, he has done very well indeed.</Test>
+<Test q="10. <u>When we consider his handicap</u>, he has done very well indeed."><u>Considering his handicap</u>, he has done very well indeed.</Test>
 
 #### 练习二
 

@@ -294,45 +294,25 @@ whether 是由连接词 either…or 变造而成。在这个名词从句中，�
 
 #### 将下列各句中的名词从句（即画底线部分）改写为简化从句：
 
-<Test n qs>1. <u>That he sends flowers to his girlfriend every day</u> is the only way he can think of to gain her favor.</Test>
+<Test q="1. <u>That he sends flowers to his girlfriend every day</u> is the only way he can think of to gain her favor."><u>Sending flowers to his girlfriend every day</u> is the only way he can think of to gain her favor.</Test>
 
-<Test><u>Sending flowers to his girlfriend every day</u> is the only way he can think of to gain her favor.</Test>
+<Test q="2. <u>That the legislator was involved in the fraud</u> is rather obvious."><u>The legislator's being involved in the fraud</u> is rather obvious. <br /> 或 <br /> <u>The legislator's involvement in the fraud</u> is rather obvious.</Test>
 
-<Test n qs>2. <u>That the legislator was involved in the fraud</u> is rather obvious.</Test>
+<Test q="3. The student denied <u>that he had cheated in the exam</u>.">The student denied <u>having cheated in the exam</u>.</Test>
 
-<Test><u>The legislator's being involved in the fraud</u> is rather obvious. <br /> 或 <br /> <u>The legislator's involvement in the fraud</u> is rather obvious.</Test>
+<Test q="4. The researcher is certain <u>that he has found a solution</u>.">The researcher is certain <u>about having found a solution</u>.</Test>
 
-<Test n qs>3. The student denied <u>that he had cheated in the exam</u>.</Test>
+<Test q="5. The residents were not aware <u>that they were being exposed to radiation</u>.">The residents were not aware <u>of being exposed to radiation</u>. <br /> 或 <br /> The residents were not aware <u>of their exposure to radiation</u>.</Test>
 
-<Test>The student denied <u>having cheated in the exam</u>.</Test>
+<Test q="6. I consider <u>that this is a most unfortunate incident</u>.">I consider <u>this a most unfortunate incident</u>.</Test>
 
-<Test n qs>4. The researcher is certain <u>that he has found a solution</u>.</Test>
+<Test q="7. <u>That John comes to school late every day</u> cannot go on much longer."><u>John's coming to school late every day</u> cannot go on much longer.</Test>
 
-<Test>The researcher is certain <u>about having found a solution</u>.</Test>
+<Test q="8. <u>That he was named the new CEO</u> came as a surprise to everybody."><u>His being named the new CEO</u> came as a surprise to everybody.</Test>
 
-<Test n qs>5. The residents were not aware <u>that they were being exposed to radiation</u>.</Test>
+<Test q="9. I would like <u>that you can look after the kids for me this evening</u>.">I would like <u>you to look after the kids for me this evening</u>.</Test>
 
-<Test>The residents were not aware <u>of being exposed to radiation</u>. <br /> 或 <br /> The residents were not aware <u>of their exposure to radiation</u>.</Test>
-
-<Test n qs>6. I consider <u>that this is a most unfortunate incident</u>.</Test>
-
-<Test>I consider <u>this a most unfortunate incident</u>.</Test>
-
-<Test n qs>7. <u>That John comes to school late every day</u> cannot go on much longer.</Test>
-
-<Test><u>John's coming to school late every day</u> cannot go on much longer.</Test>
-
-<Test n qs>8. <u>That he was named the new CEO</u> came as a surprise to everybody.</Test>
-
-<Test><u>His being named the new CEO</u> came as a surprise to everybody.</Test>
-
-<Test n qs>9. I would like <u>that you can look after the kids for me this evening</u>.</Test>
-
-<Test>I would like <u>you to look after the kids for me this evening</u>.</Test>
-
-<Test n qs>10. It is a privilege <u>that one can live in these monumental times</u>.</Test>
-
-<Test>It is a privilege <u>to live in these monumental times</u>.</Test>
+<Test q="10. It is a privilege <u>that one can live in these monumental times</u>.">It is a privilege <u>to live in these monumental times</u>.</Test>
 
 #### 练习二
 

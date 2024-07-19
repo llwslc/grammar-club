@@ -272,82 +272,42 @@ that 引导的这个名词从句可以如此简化：主语 the Callege football
 
 #### 将下列各题中的句子写在一起成为复句或合句，然后再简化到最精简的地步：
 
-<Test n qs>1. Ben Book was educated in an art college. (because) <br />&emsp;Ben Book acts unusual. <br />&emsp;Ben Book deals with economic matters. (while)</Test>
+<Test q="1. Ben Book was educated in an art college. (because) <br />&emsp;Ben Book acts unusual. <br />&emsp;Ben Book deals with economic matters. (while)">Because he was educated in an art college. Ben Book acts unusual while he deals with economic matters. <br /> 简化为： <br /> Educated in an art college, Ben Book acts unusual while dealing with economic matters.</Test>
 
-<Test>Because he was educated in an art college. Ben Book acts unusual while he deals with economic matters. <br /> 简化为： <br /> Educated in an art college, Ben Book acts unusual while dealing with economic matters.</Test>
+<Test q="2. I'd like something. <br />&emsp;You will meet some people. (that)">I'd like that you will meet some people. <br /> 简化为： <br /> I'd like you to meet some people.</Test>
 
-<Test n qs>2. I'd like something. <br />&emsp;You will meet some people. (that)</Test>
+<Test q="3. I'm not sure. <br />&emsp;What should I do?">I'm not sure what I should do. <br /> 简化为： <br /> I'm not sure what to do.</Test>
 
-<Test>I'd like that you will meet some people. <br /> 简化为： <br /> I'd like you to meet some people.</Test>
+<Test q="4. He worked late into the night. <br />&emsp;He was trying to finish the report. (because)">He worked late into the night because he was trying to finish the report. <br /> 简化为： <br /> He worked late into the night trying to finish the report.</Test>
 
-<Test n qs>3. I'm not sure. <br />&emsp;What should I do?</Test>
+<Test q="5. The soldier was wounded in the war. (after) <br />&emsp;He was sent home.">After the soldier was wounded in the war, he was sent home. <br /> 简化为： <br /> (After being) wounded in the war, the soldier was sent home.</Test>
 
-<Test>I'm not sure what I should do. <br /> 简化为： <br /> I'm not sure what to do.</Test>
+<Test q="6. He used to smoke a lot. <br />&emsp;He got married. (before)">He used to smoke a lot before he got married. <br /> 简化为： <br /> He ie used to smoke a lot before getting married.</Test>
 
-<Test n qs>4. He worked late into the night. <br />&emsp;He was trying to finish the report. (because)</Test>
+<Test q="7. I am afraid. <br />&emsp;The Democratic Party might win a majority. (that)">I am afraid that the Democratic Party might win a majority. <br /> 简化为： <br /> I am afraid of the Democratic Party's winning a majority.</Test>
 
-<Test>He worked late into the night because he was trying to finish the report. <br /> 简化为： <br /> He worked late into the night trying to finish the report.</Test>
+<Test q="8. I have nothing better to do. (when) <br />&emsp;I enjoy something. <br />&emsp;I play poker. (that)">When I have nothing better to do, I enjoy that I play poker. <br /> 简化为： <br /> When I have nothing better to do, I enjoy playing poker.</Test>
 
-<Test n qs>5. The soldier was wounded in the war. (after) <br />&emsp;He was sent home.</Test>
+<Test q="9. Mike won the contest. (when) <br />&emsp;Mike was awarded ten thousand dollars.">When Mike won the contest, he was awarded ten thousand dollars. <br /> 简化为： <br /> (Upon) winning the contest. Mike was awarded ten thousand dollars.</Test>
 
-<Test>After the soldier was wounded in the war, he was sent home. <br /> 简化为： <br /> (After being) wounded in the war, the soldier was sent home.</Test>
+<Test q="10. The motorcyclist was pulled over by the police car. <br />&emsp;&nbsp; The motorcyclist did not wear a safety helmet. (who)">The motorcyclist who did not wear a safety helmet was pulled over by the police car. <br /> 简化为： <br /> The motorcyclist not wearing a safety helmet was pulled over by the police car.</Test>
 
-<Test n qs>6. He used to smoke a lot. <br />&emsp;He got married. (before)</Test>
+<Test q="11. The mayor declined. <br />&emsp;&nbsp; The mayor was a very busy person. (who) <br />&emsp;&nbsp; The mayor was asked to give a speech at the opening ceremony. (when)">The mayor, who was a very busy person, declined when he was asked to give a speech at the opening ceremony. <br /> 简化为： <br /> The mayor, a very busy person, declined when asked to give a speech at the opening ceremony.</Test>
 
-<Test>He used to smoke a lot before he got married. <br /> 简化为： <br /> He ie used to smoke a lot before getting married.</Test>
+<Test q="12. Tax rates are already very high. (although) <br />&emsp;&nbsp; Tax rates might be raised further to rein in inflation.">Although tax rates are already very high, they might be raised further to rein in inflation. <br /> 简化为： <br /> Although already very high, tax rates might be raised further to rein in inflation.</Test>
 
-<Test n qs>7. I am afraid. <br />&emsp;The Democratic Party might win a majority. (that)</Test>
+<Test q="13. The resort town is crowded. <br />&emsp;&nbsp; There has been an influx of tourists for the holiday season. (because)">The resort town is crowded because there has been an influx of tourists for the holiday season. <br /> 简化为： <br /> The resort town is crowded with an influx of tourists for the holiday season.</Test>
 
-<Test>I am afraid that the Democratic Party might win a majority. <br /> 简化为： <br /> I am afraid of the Democratic Party's winning a majority.</Test>
+<Test q="14. The student had failed in two tests. (though) <br />&emsp;&nbsp; The student was able to pass the course.">Though the student had failed in two tests, he was able to pass the course. <br /> 简化为： <br /> Though having failed in two tests, the student was able to pass the course.</Test>
 
-<Test n qs>8. I have nothing better to do. (when) <br />&emsp;I enjoy something. <br />&emsp;I play poker. (that)</Test>
+<Test q="15. The president avoided the issue. (that) <br />&emsp;&nbsp; This was obvious to the audience.">That the president avoided the issue was obvious to the audience. <br /> 或 <br /> It was obvious to the audience that the president avoided the issue. <br /> 简化为： <br /> The president's avoiding the issue was obvious to the audience. <br /> 或 <br /> The president's avoidance of the issue was obvious to the audicnce.</Test>
 
-<Test>When I have nothing better to do, I enjoy that I play poker. <br /> 简化为： <br /> When I have nothing better to do, I enjoy playing poker.</Test>
+<Test q="16. Anyone could tell he was upset. <br />&emsp;&nbsp; He had the look on his face. (because)">Anyone could tell he was upset because he had the look on his face. <br /> 简化为： <br /> Anyone could tell he was upset, with the look on his face.</Test>
 
-<Test n qs>9. Mike won the contest. (when) <br />&emsp;Mike was awarded ten thousand dollars.</Test>
+<Test q="17. Michael Crichton is in town. <br />&emsp;&nbsp; He is author of <i>Jurassic Park</i>. (who) <br />&emsp;&nbsp; He could promote his new novel. (so that)">Michacl Crichton, who is author of <i>Jurassic Park</i>, is in town so that he could promote his new novel. <br /> 简化为： <br /> Michacl Crichton, author of <i>Jurassic Park</i>, is in town to promote his new novel.</Test>
 
-<Test>When Mike won the contest, he was awarded ten thousand dollars. <br /> 简化为： <br /> (Upon) winning the contest. Mike was awarded ten thousand dollars.</Test>
+<Test q="18. I am a conservative. (although) <br />&emsp;&nbsp; I'd like to see something. <br />&emsp;&nbsp; The conservative party is chastised in the next election. (that)">Although I am a conservative, I'd like to see that the conservative party is chastised in the next election. <br /> 简化为： <br /> Although (being) a conservative, I'd like to see the conservative party chastised in the next election.</Test>
 
-<Test n qs>10. The motorcyclist was pulled over by the police car. <br />&emsp;&nbsp; The motorcyclist did not wear a safety helmet. (who)</Test>
+<Test q="19. The man found a fly in his soup. (when) <br />&emsp;&nbsp; The man called to the waiter.">When the man found a fly in his soup, he called to the waiter. <br /> 简化为： <br /> Finding a fly in his soup, the man called to the waiter.</Test>
 
-<Test>The motorcyclist who did not wear a safety helmet was pulled over by the police car. <br /> 简化为： <br /> The motorcyclist not wearing a safety helmet was pulled over by the police car.</Test>
-
-<Test n qs>11. The mayor declined. <br />&emsp;&nbsp; The mayor was a very busy person. (who) <br />&emsp;&nbsp; The mayor was asked to give a speech at the opening ceremony. (when)</Test>
-
-<Test>The mayor, who was a very busy person, declined when he was asked to give a speech at the opening ceremony. <br /> 简化为： <br /> The mayor, a very busy person, declined when asked to give a speech at the opening ceremony.</Test>
-
-<Test n qs>12. Tax rates are already very high. (although) <br />&emsp;&nbsp; Tax rates might be raised further to rein in inflation.</Test>
-
-<Test>Although tax rates are already very high, they might be raised further to rein in inflation. <br /> 简化为： <br /> Although already very high, tax rates might be raised further to rein in inflation.</Test>
-
-<Test n qs>13. The resort town is crowded. <br />&emsp;&nbsp; There has been an influx of tourists for the holiday season. (because)</Test>
-
-<Test>The resort town is crowded because there has been an influx of tourists for the holiday season. <br /> 简化为： <br /> The resort town is crowded with an influx of tourists for the holiday season.</Test>
-
-<Test n qs>14. The student had failed in two tests. (though) <br />&emsp;&nbsp; The student was able to pass the course.</Test>
-
-<Test>Though the student had failed in two tests, he was able to pass the course. <br /> 简化为： <br /> Though having failed in two tests, the student was able to pass the course.</Test>
-
-<Test n qs>15. The president avoided the issue. (that) <br />&emsp;&nbsp; This was obvious to the audience.</Test>
-
-<Test>That the president avoided the issue was obvious to the audience. <br /> 或 <br /> It was obvious to the audience that the president avoided the issue. <br /> 简化为： <br /> The president's avoiding the issue was obvious to the audience. <br /> 或 <br /> The president's avoidance of the issue was obvious to the audicnce.</Test>
-
-<Test n qs>16. Anyone could tell he was upset. <br />&emsp;&nbsp; He had the look on his face. (because)</Test>
-
-<Test>Anyone could tell he was upset because he had the look on his face. <br /> 简化为： <br /> Anyone could tell he was upset, with the look on his face.</Test>
-
-<Test n qs>17. Michael Crichton is in town. <br />&emsp;&nbsp; He is author of <i>Jurassic Park</i>. (who) <br />&emsp;&nbsp; He could promote his new novel. (so that)</Test>
-
-<Test>Michacl Crichton, who is author of <i>Jurassic Park</i>, is in town so that he could promote his new novel. <br /> 简化为： <br /> Michacl Crichton, author of <i>Jurassic Park</i>, is in town to promote his new novel.</Test>
-
-<Test n qs>18. I am a conservative. (although) <br />&emsp;&nbsp; I'd like to see something. <br />&emsp;&nbsp; The conservative party is chastised in the next election. (that)</Test>
-
-<Test>Although I am a conservative, I'd like to see that the conservative party is chastised in the next election. <br /> 简化为： <br /> Although (being) a conservative, I'd like to see the conservative party chastised in the next election.</Test>
-
-<Test n qs>19. The man found a fly in his soup. (when) <br />&emsp;&nbsp; The man called to the waiter.</Test>
-
-<Test>When the man found a fly in his soup, he called to the waiter. <br /> 简化为： <br /> Finding a fly in his soup, the man called to the waiter.</Test>
-
-<Test n qs>20. It is a warm day. (because) <br />&emsp;&nbsp; We will go to the beach.</Test>
-
-<Test>Because it is a warm day, we will go to the beach. <br /> 简化为： <br /> It being a warm day, we will go to the beach.</Test>
+<Test q="20. It is a warm day. (because) <br />&emsp;&nbsp; We will go to the beach.">Because it is a warm day, we will go to the beach. <br /> 简化为： <br /> It being a warm day, we will go to the beach.</Test>
