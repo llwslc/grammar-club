@@ -87,7 +87,7 @@
 
 ## 定冠词 the 的用法
 
-在语源学上，the 可视为 that 或 those 的弱化形式。而 that 或 those 是指示形容词，有明确的指示功能。所以定冠词 the 也可以用同样的角度来了解：凡是上下文中有明指或暗示时，也就是有“那个”的指示功能时，便要用定冠词 the。请比较：
+在语源学上，the 可视为 that 或 those 的弱化形式。而 that 或 those 是指示限定词，有明确的指示功能。（备注：that, these, those等也可做代词，如This is a question）所以定冠词 the 也可以用同样的角度来了解：凡是上下文中有明指或暗示时，也就是有“那个”的指示功能时，便要用定冠词 the。请比较：
 
 - I need <Note>a book</Note> to read on my trip. （我在旅途中需要带本书读。）
 
