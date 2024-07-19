@@ -4,10 +4,10 @@
       <div class="test_summary">
         <div v-if="!nt">
           <div class="test_triangle_box">
-            <div class="test_triangle" :style="{ transform: open ? 'rotate(90deg)' : '' }"></div>
+            <div class="test_triangle" @click="open = !open" :style="{ transform: open ? 'rotate(90deg)' : '' }"></div>
           </div>
         </div>
-        <div :style="{ marginLeft: nt ? '1em' : '' }">{{ q }}</div>
+        <div v-html="q" :style="{ marginLeft: nt ? '1em' : '' }"></div>
       </div>
 
       <div class="test_choices" v-if="c && c.length > 0">
@@ -21,9 +21,11 @@
     <div v-if="qs">
       <div class="test_summary">
         <div class="test_triangle_box">
-          <div class="test_triangle" :style="{ transform: open ? 'rotate(90deg)' : '' }"></div>
+          <div class="test_triangle" @click="open = !open" :style="{ transform: open ? 'rotate(90deg)' : '' }"></div>
         </div>
-        <div><slot /></div>
+        <div>
+          <slot />
+        </div>
       </div>
     </div>
 
@@ -67,6 +69,7 @@ export default {
   min-width: 1em;
   float: left;
   .test_triangle
+    cursor: pointer;
     margin-top: 0.5em;
     width: 0;
     height: 0;
