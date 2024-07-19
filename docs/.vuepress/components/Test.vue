@@ -2,47 +2,64 @@
   <div>
     <div v-if="q && q.length > 0">
       <div class="test_summary">
-        <div v-if="!nt">
-          <div class="test_triangle_box">
-            <div class="test_triangle" @click="open = !open" :style="{ transform: open ? 'rotate(90deg)' : '' }"></div>
+        <div class="test_triangle_box">
+          <div class="test_triangle" @click="toggleOpen" :style="{ cursor: cursorStyle, transform: transformStyle }">
           </div>
         </div>
-        <div :style="{ marginLeft: nt ? '1em' : '' }">{{ q }}</div>
+        <div v-html="q"></div>
       </div>
 
-      <div class="test_choices" v-if="c && c.length > 0">
-        <div class="test_choice" v-for="(d, i) in c">
-          <div>({{ options[i] }})&nbsp;</div>
-          <div>{{ d }}</div>
-        </div>
-      </div>
+      <!-- Use Option component to display choices -->
+      <Option :c="c"></Option>
     </div>
 
+    <!-- Slot for additional options always visible -->
+    <slot name="options"></slot>
+
+    <!-- Answer and explanation only visible when open -->
     <div v-if="!n">
       <div class="test_answer" v-if="open">
         <b>{{ a }}</b>
         <slot />
       </div>
 
-      <div class="test_answer_btn" @click="open = !open">{{ open ? 'Hide' : 'Show' }} Answer</div>
+      <div class="test_answer_btn" @click="toggleOpen">{{ open ? 'Hide' : 'Show' }} Answer</div>
     </div>
   </div>
 </template>
 
 <script>
+import Option from './Option.vue';
+
 export default {
+  components: {
+    Option
+  },
   props: {
     q: String, // 问题
     c: Array, // 选项
     a: String, // 答案
-    n: Boolean, // 无答案 -> 3 & 14 章
-    nt: Boolean, // 无三角 -> 14 章
+    n: Boolean, // 无答案 -> 第 3 章
   },
-  data: function() {
+  data: function () {
     return {
-      options: ['A', 'B', 'C', 'D'],
       open: false
     };
+  },
+  computed: {
+    cursorStyle() {
+      return this.n ? 'default' : 'pointer';
+    },
+    transformStyle() {
+      return this.open ? 'rotate(90deg)' : '';
+    }
+  },
+  methods: {
+    toggleOpen() {
+      if (!this.n) {
+        this.open = !this.open;
+      }
+    }
   }
 };
 </script>
@@ -57,19 +74,12 @@ export default {
   min-width: 1em;
   float: left;
   .test_triangle
-    cursor: pointer;
     margin-top: 0.5em;
     width: 0;
     height: 0;
     border-top: 0.36em solid transparent;
     border-left: 0.36 * 1.734em solid;
     border-bottom: 0.36em solid transparent;
-
-.test_choices
-  margin-left: 1em;
-  .test_choice
-    display: flex;
-    line-height: 1.7;
 
 .test_answer
   margin-top: 1em;
