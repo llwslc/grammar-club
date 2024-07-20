@@ -146,7 +146,7 @@ decided 是过去时间，而时间副词 before I decided 是“在我决定之
 
 未来时间的完成式，只是把箭头所指的截止时间移到未来的一个点。观念上与现在、过去时间的完成式完全一样。在写法上，因为是未来时间，所以动词前面加一个 will 就可以了。请看例句：
 
-- 例： <Note>Next April</Note>, I <Note>will have worked</Note> here <Note>for 20 years</Note>. （到四月，我在这里就工作 20 年了。）
+- 例： <Note>Next April</Note>, I <Note>will have</Note> worked here <Note>for 20 years</Note>. （到四月，我在这里就工作 20 年了。）
 
 <Tense img="/c3f20.png" />
 
@@ -208,7 +208,7 @@ decided 是过去时间，而时间副词 before I decided 是“在我决定之
 
 #### 请把括弧中的动词以适当的时态填入空格内，以使对话内容完整。
 
-<Test q="Boy: Do you want to go and see Gone with the Wind with me tonight?" n></Test>
+<Test q="Boy: Do you want to go and see *Gone with the Wind* with me tonight?" n></Test>
 
 <Test q="Girl: No! I __ (1. see) it." a="have seen">看过，而不说何时看的，应用现在完成式。</Test>
 
