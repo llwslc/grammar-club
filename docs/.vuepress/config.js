@@ -1,4 +1,12 @@
 module.exports = {
+  plugins: [
+    [
+      '@vuepress/google-analytics',
+      {
+        ga: 'G-423T4HSGBR',
+      },
+    ],
+  ],
   base: process.env.GITHUB == 'github' ? '/grammar-club/' : '/',
   dest: process.env.GITHUB == 'github' ? 'docs/.vuepress/github' : 'docs/.vuepress/dist',
   title: '语法俱乐部',
@@ -25,21 +33,21 @@ module.exports = {
             'Chapter08',
             'Chapter09',
             'Chapter10',
-            'Chapter11'
-          ]
+            'Chapter11',
+          ],
         },
         {
           title: '第二篇 中级句型--复句',
           collapsable: false,
-          children: ['Chapter12', 'Chapter13', 'Chapter14', 'Chapter15']
+          children: ['Chapter12', 'Chapter13', 'Chapter14', 'Chapter15'],
         },
         {
           title: '第三篇 高级句型--简化从句',
           collapsable: false,
-          children: ['Chapter16', 'Chapter17', 'Chapter18', 'Chapter19', 'Chapter20', 'Chapter21', 'Chapter22']
-        }
-      ]
+          children: ['Chapter16', 'Chapter17', 'Chapter18', 'Chapter19', 'Chapter20', 'Chapter21', 'Chapter22'],
+        },
+      ],
     },
-    nav: [{ text: '目录', link: '/content/Preface' }]
-  }
+    nav: [{ text: '目录', link: '/content/Preface' }],
+  },
 };

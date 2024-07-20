@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/llwslc/grammar-club#readme",
   "dependencies": {
+    "@vuepress/plugin-google-analytics": "^1.9.10",
     "cross-env": "^7.0.2",
     "vuepress": "^1.4.1"
   }
