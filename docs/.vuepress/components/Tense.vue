@@ -1,6 +1,6 @@
 <template>
   <div class="tense_main">
-    <img :src="img" alt="" />
+    <img :src="$withBase(img)" alt="foo" />
   </div>
 </template>
 
