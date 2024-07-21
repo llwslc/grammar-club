@@ -1,4 +1,12 @@
 module.exports = {
+  plugins: [
+    [
+      'google-analytics-4',
+      {
+        gtag: 'G-423T4HSGBR'
+      }
+    ]
+  ],
   base: process.env.GITHUB == 'github' ? '/grammar-club/' : '/',
   dest: process.env.GITHUB == 'github' ? 'docs/.vuepress/github' : 'docs/.vuepress/dist',
   title: '语法俱乐部',
