@@ -210,45 +210,25 @@
 
 #### 将下列各句中的关系从句（即画底线部分）改写为简化从句：
 
-<Test n qs>1. Medieval suits of armor, <u>which were developed for protection during battle</u>, are now placed in castles for decoration.</Test>
+<Test q="1. Medieval suits of armor, <u>which were developed for protection during battle</u>, are now placed in castles for decoration.">Medieval suits of armor, <u>developed for protection during battle</u>, are now placed in castles for decoration.</Test>
 
-<Test>Medieval suits of armor, <u>developed for protection during battle</u>, are now placed in castles for decoration.</Test>
+<Test q="2. The change of style in these paintings should be obvious to anyone <u>that is familiar with the artist's works</u>.">The change of style in these paintings should be obvious to anyone <u>familiar with the artist's works</u>.</Test>
 
-<Test n qs>2. The change of style in these paintings should be obvious to anyone <u>that is familiar with the artist's works</u>.</Test>
+<Test q="3. Islands are actually tips of underwater mountain peaks <u>that rise above water</u>.">Islands are actually tips of underwater mountain peaks <u>rising above waler</u>.</Test>
 
-<Test>The change of style in these paintings should be obvious to anyone <u>familiar with the artist's works</u>.</Test>
+<Test q="4. John Milton, <u>who was author of <i>Paradise Lost</i></u>, was a key member of Oliver Cromwell's cabinet.">John Milton, <u>author of <i>Paradise Lost</i></u>, was a key member of Oliver Cromwell's cabinet.</Test>
 
-<Test n qs>3. Islands are actually tips of underwater mountain peaks <u>that rise above water</u>.</Test>
+<Test q="5. The secretary thought that it might not be the best time <u>that she should ask her boss for a raise</u>.">The secretary thought that it might not be the best time <u>to ask her boss for a raise</u>.</Test>
 
-<Test>Islands are actually tips of underwater mountain peaks <u>rising above waler</u>.</Test>
+<Test q="6. Gold is one of the heaviest metals <u>that are known to man</u>.">Gold is one of the heaviest metals <u>known to man</u>.</Test>
 
-<Test n qs>4. John Milton, <u>who was author of <i>Paradise Lost</i></u>, was a key member of Oliver Cromwell's cabinet.</Test>
+<Test q="7. Here are some books <u>that your brother can use</u>.">Here are some books <u>for your brother to use</u>.</Test>
 
-<Test>John Milton, <u>author of <i>Paradise Lost</i></u>, was a key member of Oliver Cromwell's cabinet.</Test>
+<Test q="8. Sexual harassment, <u>which is a hotly debated issue in the work place</u>, will be the topic of the intercollegiate debate next week.">Sexual harassment, <u>a hotly debated issue in the work place</u>, will be the topic of the intercollegiate debate next week.</Test>
 
-<Test n qs>5. The secretary thought that it might not be the best time <u>that she should ask her boss for a raise</u>.</Test>
+<Test q="9. There's nothing left <u>that I can say now</u>.">There's nothing left <u>(for me) to say now</u>.</Test>
 
-<Test>The secretary thought that it might not be the best time <u>to ask her boss for a raise</u>.</Test>
-
-<Test n qs>6. Gold is one of the heaviest metals <u>that are known to man</u>.</Test>
-
-<Test>Gold is one of the heaviest metals <u>known to man</u>.</Test>
-
-<Test n qs>7. Here are some books <u>that your brother can use</u>.</Test>
-
-<Test>Here are some books <u>for your brother to use</u>.</Test>
-
-<Test n qs>8. Sexual harassment, <u>which is a hotly debated issue in the work place</u>, will be the topic of the intercollegiate debate next week.</Test>
-
-<Test>Sexual harassment, <u>a hotly debated issue in the work place</u>, will be the topic of the intercollegiate debate next week.</Test>
-
-<Test n qs>9. There's nothing left <u>that I can say now</u>.</Test>
-
-<Test>There's nothing left <u>(for me) to say now</u>.</Test>
-
-<Test n qs>10. People <u>that live along the waterfront</u> must be evacuated before the storm hits.</Test>
-
-<Test>People <u>living along the waterfront</u> must be evacuated before the storm hits.</Test>
+<Test q="10. People <u>that live along the waterfront</u> must be evacuated before the storm hits.">People <u>living along the waterfront</u> must be evacuated before the storm hits.</Test>
 
 #### 练习二
 

@@ -181,45 +181,25 @@ being a student 因为有 being，所以 a student 很明显是补语，意思�
 
 #### 将下列各句中的副词从句（即画底线部分）改写为简化从句：
 
-<Test n qs>1. <u>While he was watching TV</u>, the boy heard a strange noise coming from the kitchen.</Test>
+<Test q="1. <u>While he was watching TV</u>, the boy heard a strange noise coming from the kitchen."><u>(While) waiching TV</u>, the boy heard a strange noise coming from the kitchen.</Test>
 
-<Test><u>(While) waiching TV</u>, the boy heard a strange noise coming from the kitchen.</Test>
+<Test q="2. <u>Because she lives with her parents</u>, the girl can't stay out very late."><u>Living with her parents</u>, the girl can't stay out very late.</Test>
 
-<Test n qs>2. <u>Because she lives with her parents</u>, the girl can't stay out very late.</Test>
+<Test q="3. <u>If you have finished your work</u>, you can help me with mine."><u>If having finished your work</u>，you can help me with mine.</Test>
 
-<Test><u>Living with her parents</u>, the girl can't stay out very late.</Test>
+<Test q="4. <u>As he is a law-enforcement officer</u>, he cannot drink on duty."><u>Being a law-enforcement officer</u>, he cannot drink on duty.</Test>
 
-<Test n qs>3. <u>If you have finished your work</u>, you can help me with mine.</Test>
+<Test q="5. The actor has been in a state of excitement <u>ever since he was nominated for the Oscar</u>.">The actor has been in a state of excitement <u>ever since being nominated for the Oscar</u>.</Test>
 
-<Test><u>If having finished your work</u>，you can help me with mine.</Test>
+<Test q="6. <u>After he addressed the congregation</u>, the minister left in a hurry."><u>After addressing the congregation</u>, the minister left in a hurry. <br /> 或 <br /> <u>Having addressed the congregation</u>, the minister left in a hurry.</Test>
 
-<Test n qs>4. <u>As he is a law-enforcement officer</u>, he cannot drink on duty.</Test>
+<Test q="7. <u>As it was rather warm</u>, we decided to go for a swim."><u>It being rather warm</u>, we decided to go for a swim.</Test>
 
-<Test><u>Being a law-enforcement officer</u>, he cannot drink on duty.</Test>
+<Test q="8. <u>When the students have all left</u>, the teacher started looking over their examination sheets."><u>The students having all left</u>, the teacher started looking over their examination sheets.</Test>
 
-<Test n qs>5. The actor has been in a state of excitement <u>ever since he was nominated for the Oscar</u>.</Test>
+<Test q="9. I know all about corn farming <u>because I grew up in a Southern farm</u>.">I know all about corn farming, <u>having grown up in a Southern farm</u>.</Test>
 
-<Test>The actor has been in a state of excitement <u>ever since being nominated for the Oscar</u>.</Test>
-
-<Test n qs>6. <u>After he addressed the congregation</u>, the minister left in a hurry.</Test>
-
-<Test><u>After addressing the congregation</u>, the minister left in a hurry. <br /> 或 <br /> <u>Having addressed the congregation</u>, the minister left in a hurry.</Test>
-
-<Test n qs>7. <u>As it was rather warm</u>, we decided to go for a swim.</Test>
-
-<Test><u>It being rather warm</u>, we decided to go for a swim.</Test>
-
-<Test n qs>8. <u>When the students have all left</u>, the teacher started looking over their examination sheets.</Test>
-
-<Test><u>The students having all left</u>, the teacher started looking over their examination sheets.</Test>
-
-<Test n qs>9. I know all about corn farming <u>because I grew up in a Southern farm</u>.</Test>
-
-<Test>I know all about corn farming, <u>having grown up in a Southern farm</u>.</Test>
-
-<Test n qs>10. <u>As the door remained shut</u>, the servant could not hear what was going on inside.</Test>
-
-<Test><u>The door remaining shut</u>, the servant could not hear what was going on inside.</Test>
+<Test q="10. <u>As the door remained shut</u>, the servant could not hear what was going on inside."><u>The door remaining shut</u>, the servant could not hear what was going on inside.</Test>
 
 #### 练习二
 

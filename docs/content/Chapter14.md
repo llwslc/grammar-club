@@ -550,11 +550,13 @@ wh-ever 解释为 no matter wh-，是表示让步、条件的语气，它的功�
 
 <Test q="7. This custom, __, is slowly disappearing." :c="['of many centuries ago origin', 'which originated many centuries ago', 'with many centuries origin']" a="(B)">A 和 C 都在名词 origin 前面加上了短语（many centuries ago 和 many centuries）来修饰，可是名词前面只能用单词的形容词来修饰，所以错误。B 是正确的形容词从句。</Test>
 
-<Test q="8. I find it very unfair when __ I do is considered mediocre or a failure. I can be depressed for days because of __ happens." n></Test>
-
-<Test q="I." :c="['that', 'those', 'which', 'what']" n nt></Test>
-
-<Test q="II." :c="['who', 'what', 'that', 'where']" a="Ⅰ (D) II (B)" nt>两个位置都省掉了先行词，所以只能选择 what。 </Test>
+<Test q="8. I find it very unfair when __ I do is considered mediocre or a failure. I can be depressed for days because of __ happens." a="Ⅰ (D) II (B)">
+  <template v-slot:options>
+    <Option numero="I." :c="['that', 'those', 'which', 'what']"></Option>
+    <Option numero="II." :c="['who', 'what', 'that', 'where']"></Option>
+  </template>
+  <span>两个位置都省掉了先行词，所以只能选择 what。</span>
+</Test>
 
 <Test q="9. __ is elected President, corruption won't cease." :c="['Whatever', 'Who', 'How', 'Whoever']" a="(D)">空格前无先行词，只能选 A 或 D。而“当选总统”者应为“人”，故选 D。</Test>
 
