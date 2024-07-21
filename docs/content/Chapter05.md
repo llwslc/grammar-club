@@ -46,7 +46,7 @@
 
 #### 一、复合字
 
-- 例 1： <Note note="S">Picking strawberries</Note> <Note note="V">can be</Note> <Note note="O">fun</Note>. （采草莓很好玩。）
+- 例 1： <Note note="S">Picking strawberries</Note> <Note note="V">can be</Note> <Note note="C">fun</Note>. （采草莓很好玩。）
 
 - 例 2： <Note note="S">The picking</Note> of strawberries <Note note="V">requires</Note> <Note note="O">patience</Note>. （采草莓要有耐心。）
 
@@ -54,7 +54,7 @@
 
 第一句中，picking strawberries 可以看出有动词 pick 和宾语 strawberries。主语被省略了，看不出来是谁，只是笼统的 anybody。所以，这句可以还原为：
 
-- &nbsp;<Note note="S">That anybody picks strawberries</Note> <Note note="V">can be</Note> <Note note="O">fun</Note>.
+- &nbsp;<Note note="S">That anybody picks strawberries</Note> <Note note="V">can be</Note> <Note note="C">fun</Note>.
 
 主语部分本来是名词从句，现在简化为动名词短语 picking strawberries，其中 strawberries 是 pick 的宾语。
 
