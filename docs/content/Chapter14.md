@@ -96,7 +96,7 @@
 
 例 2 中的 he 是主语，改成关系代名词 who 之后位置不会调动，直接成为：
 
-- &nbsp;<Note note="S">who</Note> <Note note="V">was</Note> <Note note="O">here</Note> just now
+- &nbsp;<Note note="S">who</Note> <Note note="V">was</Note> <Note note="C">here</Note> just now
 
 再和句 1 合并成为复句：
 
