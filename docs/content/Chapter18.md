@@ -46,7 +46,7 @@
 
 省略名词从句的 he，动词加 -ing 而成为：
 
-- His favorite pastime is <Note note="简化名词从句">going fishing on weekends</Note>. （他习惯了熬夜工作。）
+- His favorite pastime is <Note note="简化名词从句">going fishing on weekends</Note>.
 
 #### 四、主语不能省略时
 
