@@ -20,7 +20,7 @@
   "homepage": "https://github.com/llwslc/grammar-club#readme",
   "dependencies": {
     "cross-env": "^7.0.2",
-    "vuepress": "^1.4.1",
-    "vuepress-plugin-google-analytics-4": "^0.1.1"
+    "vuepress": "1.4.1",
+    "vuepress-plugin-google-analytics-4": "0.1.1"
   }
 }
