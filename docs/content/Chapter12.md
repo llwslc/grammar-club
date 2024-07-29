@@ -296,7 +296,7 @@ whether 和解释为“是否”的 if 在大多数的情况下可以互换使�
 
 <Test q="13. __ is decided by the ecological role that it plays." :c="['An animal sees well', 'Whether an animal sees well', 'Does an animal see well', 'So an animal sees well']" a="(B)">空格部分是动词 is decided 前面的主语部分。既然是需要 decided 的事情，表示应该用疑问句改造的名词从句，故选 B。</Test>
 
-<Test q="14. Analysts agree __ is too much “hot money”circulating in the stock market." :c="['what', 'which', 'that', 'that there']" a="(C)">从前面的 Analysts agree (分析家一致认为）来看，接下来应该是一个叙述某种看法的名词从句（以 that 引导），而不是疑问句形态的名词从句（以疑问词引导），故选 D。</Test>
+<Test q="14. Analysts agree __ is too much “hot money”circulating in the stock market." :c="['what', 'which', 'that', 'that there']" a="(D)">从前面的 Analysts agree (分析家一致认为）来看，接下来应该是一个叙述某种看法的名词从句（以 that 引导），而不是疑问句形态的名词从句（以疑问词引导），故选 D。</Test>
 
 <Test q="15. Have you wondered whether __ too late to change your job?" :c="['it is', 'is it', 'that it is', 'is']" a="(A)">自 whether 以下是疑问句改造的名词从句，作为动词 wonder 的宾语，故选 A。</Test>
 

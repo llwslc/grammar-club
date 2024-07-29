@@ -51,7 +51,7 @@ Because we are having nothing to do here, we might as well go home.。请注意�
 
 副词从句的主语 we 与主要从句的主语相同，可以省略。动词 have 是普通动词，可以改成 having 保留下来，成为：
 
-- &nbsp;<Note note="简化副词从句">Although haveing nothing to do here</Note>, we can't leave early.
+- &nbsp;<Note note="简化副词从句">Although having nothing to do here</Note>, we can't leave early.
 
 本来没事应该可以离开，但是却相反。这种“相反”的逻辑关系要靠连接词 although 来表示，所以 although 不宜省略，不然会让读者搞不清楚：是因为没事才不能早走吗？
 

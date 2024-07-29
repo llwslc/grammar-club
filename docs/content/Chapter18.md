@@ -46,7 +46,7 @@
 
 省略名词从句的 he，动词加 -ing 而成为：
 
-- His favorite pastime is <Note note="简化名词从句">going fishing on weekends</Note>. （他习惯了熬夜工作。）
+- His favorite pastime is <Note note="简化名词从句">going fishing on weekends</Note>.
 
 #### 四、主语不能省略时
 
@@ -68,7 +68,7 @@
 
 主语 a beantiflil girl 放到宾语位置，原来的主语补语 singing to me 放在宾语补语的位置，就可顺利解决问题。原来的复句也简化为 S+V+O+C 的句型。
 
-#### 2. 用所有格来处
+#### 2. 用所有格来处理
 
 - &nbsp;<Note note="S（名词从句）">That he calls my girlfriend every day</Note> <Note note="V">is</Note> <Note note="C">too much for me</Note>. （他每天打电话给我女朋友真让我受不了。）
 

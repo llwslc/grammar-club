@@ -220,7 +220,7 @@
 
 <Test n qs>3. Islands are actually tips of underwater mountain peaks <u>that rise above water</u>.</Test>
 
-<Test>Islands are actually tips of underwater mountain peaks <u>rising above waler</u>.</Test>
+<Test>Islands are actually tips of underwater mountain peaks <u>rising above water</u>.</Test>
 
 <Test n qs>4. John Milton, <u>who was author of <i>Paradise Lost</i></u>, was a key member of Oliver Cromwell's cabinet.</Test>
 
