@@ -116,7 +116,7 @@ be 动词是没有内容的字眼。在此加上 being 一词，纯粹是因应�
 
 #### 二、形容词
 
-- &nbsp;<Note note="副词从句">While it is small in size</Note>, the company is very competitive. （这家公司規模虽小，但很有竞争力。）
+- &nbsp;<Note note="副词从句">While it is small in size</Note>, the company is very competitive. （这家公司规模虽小，但很有竞争力。）
 
 副词从句中的补语是形容词 small，简化方式相同：
 
@@ -130,7 +130,7 @@ be 动词是没有内容的字眼。在此加上 being 一词，纯粹是因应�
 
 - &nbsp;<Note note="简化副词从句">Although a doctor by training</Note>, Asimov became a writer.
 
-观察以上三种情形，可以作一归纳：副词从句的连接词不同于名词从句或形容词从句，是有意义的连接词，简化时常要留下来。一旦留下连接词，那么它是由副词从句简化而成这一点就十分明显。所以，拿掉主语与 be 动词后，不论什么词类的补语——名词、形容词、介系词短语——都可以留下来。不过有两点需要注意：如果连接词是 before 与 after 之类，简化后成为介系词，后面只能接名词类。另外，表示原因的连接词 because 与 sine，简化后通常不能原样留下来，要改成 because of，as a result of 之类的介系词。做法请看下面说明。
+观察以上三种情形，可以作一归纳：副词从句的连接词不同于名词从句或形容词从句，是有意义的连接词，简化时常要留下来。一旦留下连接词，那么它是由副词从句简化而成这一点就十分明显。所以，拿掉主语与 be 动词后，不论什么词类的补语——名词、形容词、介系词短语——都可以留下来。不过有两点需要注意：如果连接词是 before 与 after 之类，简化后成为介系词，后面只能接名词类。另外，表示原因的连接词 because 与 since，简化后通常不能原样留下来，要改成 because of，as a result of 之类的介系词。做法请看下面说明。
 
 ## 改为介系词短语
 
