@@ -7,7 +7,7 @@
             <div class="test_triangle" :style="{ transform: open ? 'rotate(90deg)' : '' }"></div>
           </div>
         </div>
-        <div :style="{ marginLeft: nt ? '1em' : '' }">{{ q }}</div>
+        <div :style="{ marginLeft: nt ? '1em' : '0' }" v-html="q"></div>
       </div>
 
       <div class="test_choices" v-if="c && c.length > 0">
@@ -48,7 +48,7 @@ export default {
     nt: Boolean, // 无三角 -> 14 章
     qs: Boolean // 有三角 -> 17 章
   },
-  data: function() {
+  data: function () {
     return {
       options: ['A', 'B', 'C', 'D'],
       open: false

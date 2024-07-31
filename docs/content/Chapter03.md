@@ -208,7 +208,7 @@ decided 是过去时间，而时间副词 before I decided 是“在我决定之
 
 #### 请把括弧中的动词以适当的时态填入空格内，以使对话内容完整。
 
-<Test q="Boy: Do you want to go and see Gone with the Wind with me tonight?" n></Test>
+<Test q="Boy: Do you want to go and see <i>Gone with the Wind</i> with me tonight?" n></Test>
 
 <Test q="Girl: No! I __ (1. see) it." a="have seen">看过，而不说何时看的，应用现在完成式。</Test>
 
