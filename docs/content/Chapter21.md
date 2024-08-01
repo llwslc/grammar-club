@@ -294,7 +294,7 @@ that 引导的这个名词从句可以如此简化：主语 the Callege football
 
 <Test n qs>6. He used to smoke a lot. <br />&emsp;He got married. (before)</Test>
 
-<Test>He used to smoke a lot before he got married. <br /> 简化为： <br /> He ie used to smoke a lot before getting married.</Test>
+<Test>He used to smoke a lot before he got married. <br /> 简化为： <br /> He used to smoke a lot before getting married.</Test>
 
 <Test n qs>7. I am afraid. <br />&emsp;The Democratic Party might win a majority. (that)</Test>
 

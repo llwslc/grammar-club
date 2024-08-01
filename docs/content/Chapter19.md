@@ -233,7 +233,7 @@ being a student 因为有 being，所以 a student 很明显是补语，意思�
 
 <Test q="4. Underground money lenders make most of their income from interest __ on loans." :c="['earn', 'earned', 'to earn', 'was earned']" a="(B)">这是 that is earned on loans 这个形容词从句的简化。</Test>
 
-<Test q="5. __ the driveway, the house appeared to be much smaller than it had seemed to usas children many years ago." :c="['Standing in', 'Seen from', 'Crossing', 'Driving down']" a="(B)">四个答案都是副词从句简化，条件是要与主要从句同一主语（the house），所以只有 A 或 B。the driveway 是“车道”，房子不能站在它里面，所以排除掉 A，剩下 B（When it was seen from 的简化）。</Test>
+<Test q="5. __ the driveway, the house appeared to be much smaller than it had seemed to us as children many years ago." :c="['Standing in', 'Seen from', 'Crossing', 'Driving down']" a="(B)">四个答案都是副词从句简化，条件是要与主要从句同一主语（the house），所以只有 A 或 B。the driveway 是“车道”，房子不能站在它里面，所以排除掉 A，剩下 B（When it was seen from 的简化）。</Test>
 
 <Test q="6. After finishing my degree, __." :c="['my education will be employed by the university', 'employment will be given to me by the university', 'the university will employ me', 'I will be employed by the university']" a="(D)">After finishing my degree 是 After I finish my degree 的简化，所以主要从句只能用 I 作主语，因而只有 D。</Test>
 
