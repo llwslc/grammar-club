@@ -256,7 +256,7 @@ be 动词是没有内容的字眼。在此加上 being 一词，纯粹是因应�
 
 <Test q="3. Gold remains stable even __ to extremely high temperatures." :c="['when is heated', 'it is heated', 'when to heat', 'when heated']" a="(D)">副词从句 even when it is heated… 的简化。</Test>
 
-<Test q="4. __, the stock market crashed." :c="['With investor confidence gone', 'When investor confidence gone', 'When investors lose confidence', 'With investors lost con fidence']" a="(A)">副词从句 Because investor confidence was gone 简化成介系词短语。</Test>
+<Test q="4. __, the stock market crashed." :c="['With investor confidence gone', 'When investor confidence gone', 'When investors lose confidence', 'With investors lost confidence']" a="(A)">副词从句 Because investor confidence was gone 简化成介系词短语。</Test>
 
 <Test q="5. A monkey's brain is small __ with the human brain." :c="['when they are compared', 'when compare', 'compared', 'to compare them']" a="(C)">副词从句 when it is compared… 的简化。</Test>
 
