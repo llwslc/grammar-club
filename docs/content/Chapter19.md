@@ -183,7 +183,7 @@ being a student 因为有 being，所以 a student 很明显是补语，意思�
 
 <Test n qs>1. <u>While he was watching TV</u>, the boy heard a strange noise coming from the kitchen.</Test>
 
-<Test><u>(While) waiching TV</u>, the boy heard a strange noise coming from the kitchen.</Test>
+<Test><u>(While) watching TV</u>, the boy heard a strange noise coming from the kitchen.</Test>
 
 <Test n qs>2. <u>Because she lives with her parents</u>, the girl can't stay out very late.</Test>
 
