@@ -20,7 +20,7 @@
 
 1. John Smith died in World War Two. （约翰·史密斯死于第二次世界大战。）
 
-2. John Simth killed three enemy soldiers. （约翰·史密斯杀了三名敌军士兵。）
+2. John Smith killed three enemy soldiers. （约翰·史密斯杀了三名敌军士兵。）
 
 在例 1 中，主语 John Smith 是这个句子所叙述的对象。讲白一点就是：这个句子要告诉你的是有关 John Smith 的事情。是什么事情呢？主要是：他“死了”（died）。动词 died 构成叙述的主要内容。至于说他死在第一次大战还是第二次大战，则是可有可无的细节，以介词短语 in World War Two 来表示，依附在动词上做修饰语使用。换句话说，例 1 如果只说 John Smith died，也可以构成意思完整、正确的句子。
 
