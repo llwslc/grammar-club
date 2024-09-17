@@ -50,7 +50,7 @@
 
 - &nbsp;<Note note="S">Birds</Note> <Note note="V">fly</Note>. （鸟儿飞。）
 
-- &nbsp;<Note note="S">Birds</Note> <Note note="V">cat</Note> <Note note="O">worms</Note>. （鸟儿吃虫。）
+- &nbsp;<Note note="S">Birds</Note> <Note note="V">eat</Note> <Note note="O">worms</Note>. （鸟儿吃虫。）
 
 - &nbsp;<Note note="S">Birds</Note> <Note note="V">give</Note> <Note note="O">us</Note> <Note note="O">songs</Note>. （鸟为我们歌唱。）
 
