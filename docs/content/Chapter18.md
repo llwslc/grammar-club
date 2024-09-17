@@ -144,7 +144,7 @@
 
 名词从句中是单纯的 be 动词，后面接 a teacher 作补语。简化时改成 being… 才能保持“做”老师的味道：
 
-- &nbsp;<Note note="简化名词从句">Being a teacher</Note>requires a lot of patience.
+- &nbsp;<Note note="简化名词从句">Being a teacher</Note> requires a lot of patience.
 
 若省略 be 动词，成为：
 
