@@ -172,7 +172,7 @@ be 动词是没有内容的字眼。在此加上 being 一词，纯粹是因应�
 
 副词从句中的虚主语 it，以及动词 had been 都可以省略，有意义的只有 rain 一词要留下来。再看这个例子：
 
-- &nbsp;<Note note="副词从句">Althought he opposed it</Note>, the plan was carried out. （虽然他反对，这个计划还是施行了。）
+- &nbsp;<Note note="副词从句">Although he opposed it</Note>, the plan was carried out. （虽然他反对，这个计划还是施行了。）
 
 例句中连接词 although 和介系词 despite 或 in spite of 意思接近，可以改为：
 
