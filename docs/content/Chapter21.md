@@ -306,7 +306,7 @@ that 引导的这个名词从句可以如此简化：主语 the Callege football
 
 <Test n qs>9. Mike won the contest. (when) <br />&emsp;Mike was awarded ten thousand dollars.</Test>
 
-<Test>When Mike won the contest, he was awarded ten thousand dollars. <br /> 简化为： <br /> (Upon) winning the contest. Mike was awarded ten thousand dollars.</Test>
+<Test>When Mike won the contest, he was awarded ten thousand dollars. <br /> 简化为： <br /> (Upon) winning the contest, Mike was awarded ten thousand dollars.</Test>
 
 <Test n qs>10. The motorcyclist was pulled over by the police car. <br />&emsp;&nbsp; The motorcyclist did not wear a safety helmet. (who)</Test>
 
