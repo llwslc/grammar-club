@@ -228,7 +228,7 @@ Because 引导的副词从句，简化时可把重复的主语 I 省略。动词
 
 - (3+4) A. Fries saw <Note>that the College football team lost</Note> in the important game.
 
-that 引导的这个名词从句可以如此简化：主语 the Callege football team 改为所有格留下，动词 lost 直接改为名词的 lost，成为：
+that 引导的这个名词从句可以如此简化：主语 the Callege football team 改为所有格留下，动词 lost 直接改为名词的 loss，成为：
 
 - (B) A. Fries saw <Note>the College football team's loss</Note> in the important game.
 
