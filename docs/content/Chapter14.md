@@ -486,7 +486,7 @@ whichever 表示省略掉先行词。分析句型的时候也可以把 whichever
 
 例 2 的 then 和例 1 的 1564 重复，建立关系，改写成关系词 when。然后，因为先行词 1564 是一个明确的年代，不是模糊的时间（像 a time 等），所以只能补充说明那一年有什么特别的事情，而不是进一步指出时间。这种性质的先行词，后面要用括弧性的逗号把关系从句括起来，成为：
 
-3. Shakespeare was born in <Note note="先行词">1564</Note> <Note note="关系从句">when Queen Elizabeth I was on the throne</Note>. （莎士比亚出生于 1564 年，当时伊莉莎白女王一世在位。）
+3. Shakespeare was born in <Note note="先行词">1564</Note>, <Note note="关系从句">when Queen Elizabeth I was on the throne</Note>. （莎士比亚出生于 1564 年，当时伊莉莎白女王一世在位。）
 
 再看下例：
 
