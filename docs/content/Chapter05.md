@@ -26,7 +26,7 @@
 
 在传统语法中，句中宾语的部分被视为一个动名词短语。如果深入分析，将会发现这个短语中有动词（teach）、宾语（English）、介系词短语（to school children）、时间副词（at night），只差没有主语。可是，teach 的主语很明显：与主要从句中的 I 是同一个人。所以，这个动名词短语可以还原成一个名词从句：
 
-- &nbsp;<Note note="S">I</Note> really <Note note="V">enjoyed</Note> <Note note="O">I taught English to school children at night</Note>.
+- &nbsp;<Note note="S">I</Note> really <Note note="V">enjoyed</Note> that <Note note="O">I taught English to school children at night</Note>.
 
 这个宾语从句是如何变成动名词短语的？我们可以从简化（reduction）的角度来了解这个问题。从句中的主语 I 和主要从句的主语 I 相同，所以可以省略，如果再把动词去掉，就可以成功地拆除这个从句，不需要连接词（that）了。从句的动词 taught 是有意义的动词，不能直接丢掉，但是可以改变成动状词（Verbal）来做词类变化。但是该选择哪一种动状词呢？四种动状词中，只有不定词（to V）与动名词（Ving）可以当做名词使用，来取代名词从句。所以：
 
