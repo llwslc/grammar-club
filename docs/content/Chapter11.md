@@ -260,7 +260,7 @@ bread 和 butter 都不可数，使用零冠词（zero article），因而看不
 
 - Ex. 25 You (have) to make a five-minute speech each.
 
-正确用法：<b>Ex. 25 have</b>（each 在这里用作修饰语，主语是表示“你们”的 yon，所以是复数）
+正确用法：<b>Ex. 25 have</b>（each 在这里用作修饰语，主语是表示“你们”的 you，所以是复数）
 
 </Card>
 
