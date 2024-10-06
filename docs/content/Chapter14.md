@@ -262,7 +262,7 @@ whichever 表示省略掉先行词。分析句型的时候也可以把 whichever
 
 - You can find <Note note="先行词" ul>two apples</Note> <Note note="关系从句" ul>which I bought</Note> in the basket. （误）
 
-这个句子就没有把意思交待清楚。关系从句 Which I bought 插到先行词 two apples 后面，造成一个结果：地方副词 in the basket 和它所修饰的动词 can find 之问距离过远，而且现在它更接近另一个动词 bought（关系从句的动词），所以这个句子读起来不像是“可以在篮子里找到我买的两个苹果”，反而像是“你可以找到我在篮子里买的两个苹果”。这就失去原来的意思了。
+这个句子就没有把意思交待清楚。关系从句 Which I bought 插到先行词 two apples 后面，造成一个结果：地方副词 in the basket 和它所修饰的动词 can find 之间距离过远，而且现在它更接近另一个动词 bought（关系从句的动词），所以这个句子读起来不像是“可以在篮子里找到我买的两个苹果”，反而像是“你可以找到我在篮子里买的两个苹果”。这就失去原来的意思了。
 
 如果把 in the basket 向前移，把关系从句挪后，就成为：
 
