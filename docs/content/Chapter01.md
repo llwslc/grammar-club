@@ -151,7 +151,7 @@ be 动词直接翻译为“是”，是最有代表性的“连缀动词”。�
 
 <Test q="1. The magician moved his fingers quickly.">The <Note note="S">magician</Note> <Note note="V">moved</Note> his <Note note="O">fingers</Note> quickly.</Test>
 
-<Test q="2. The police found the letter missing.">The <Note note="S">police</Note> <Note note="V">found</Note> the <Note note="O"">letter</Note> <Note note="C">missing</Note>.</Test>
+<Test q="2. The police found the letter missing.">The <Note note="S">police</Note> <Note note="V">found</Note> the <Note note="O">letter</Note> <Note note="C">missing</Note>.</Test>
 
 <Test q="3. The police found the missing letter.">The <Note note="S">police</Note> <Note note="V">found</Note> the <Note note="O">missing letter</Note>.</Test>
 
