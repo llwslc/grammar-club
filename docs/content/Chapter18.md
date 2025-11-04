@@ -66,7 +66,7 @@
 
 - &nbsp;<Note note="S">I</Note> <Note note="V">imagined</Note> <Note note="O">a beautiful girl</Note> <Note note="C">singing to me</Note>.
 
-主语 a beantiflil girl 放到宾语位置，原来的主语补语 singing to me 放在宾语补语的位置，就可顺利解决问题。原来的复句也简化为 S+V+O+C 的句型。
+主语 a beautiful girl 放到宾语位置，原来的主语补语 singing to me 放在宾语补语的位置，就可顺利解决问题。原来的复句也简化为 S+V+O+C 的句型。
 
 #### 2. 用所有格来处理
 
