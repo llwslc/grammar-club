@@ -2,6 +2,8 @@
 
 set -e
 
+export NODE_OPTIONS=--openssl-legacy-provider
+
 npm run github:build
 
 cd docs/.vuepress/github
