@@ -204,7 +204,7 @@ the important thing = we're all right
 
 → (A) <Note note="S">I</Note> <Note note="V">know</Note> <Note note="O">who you are</Note>. (我知道你是谁。)
 
-例 2 中 Who are you? 只要改写为非疑问句的顺序 who you are 即成为名词从句，以疑问词 who 当连接词用，不必再加连接词，直接把这个从句放人例 1 中 the question 的位置，作为 know 的宾语，即成为（A）的复句。再看一个例子：
+例 2 中 Who are you? 只要改写为非疑问句的顺序 who you are 即成为名词从句，以疑问词 who 当连接词用，不必再加连接词，直接把这个从句放入例 1 中 the question 的位置，作为 know 的宾语，即成为（A）的复句。再看一个例子：
 
 1. &nbsp;<Note note="S">The question</Note> is anybody's guess.
 
