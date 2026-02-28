@@ -194,7 +194,7 @@
 
 然后省去 be 动词，主语的 you 放入宾语位置，主语补语 to go 就成了宾语补语，成为：
 
-- &nbsp;<Note note="S">I</Note> <Note note="V">want</Note> <Note note="O">you</Note> <Note note="O">to go</Note>.
+- &nbsp;<Note note="S">I</Note> <Note note="V">want</Note> <Note note="O">you</Note> <Note note="C">to go</Note>.
 
 在大部分的句型中，不定词原来的主语可放在介系词后的宾语位置以保留下来，例如：
 
