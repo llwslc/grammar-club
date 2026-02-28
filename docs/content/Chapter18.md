@@ -132,7 +132,7 @@
 
 如果按照前面的做法，加上 being 来改变 invited 的词类当然也可以：
 
-- I am looking forward to the <Note note="简化名词从句">being invited to the party</Note>.
+- I am looking forward to <Note note="简化名词从句">being invited to the party</Note>.
 
 名词从句简化成 Ving 的形式，如果是被动态时，以 being Ven 的形式就可以表示，并仍以名词的形式保留下来。
 
