@@ -138,7 +138,7 @@
 
 后一句中是以时间副词和先行词 the time 重复，因而改写成关系副词 when 来连接：
 
-- This is exactly <Note note="先行词">the time</Note> <Note note="关系从句">when we should do</Note>.
+- This is exactly <Note note="先行词">the time</Note> <Note note="关系从句">when we should do it</Note>.
 
 关系副词非主要词类，在前面没有逗号的情况下可以径行省略，成为：
 
