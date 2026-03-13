@@ -112,7 +112,7 @@
 
 - &nbsp;<Note note="S" ul>Called a liar</Note> <Note note="V" ul>is</Note> the greatest <Note note="C" ul>insult</Note>. （误）
 
-剩下的补语 called a liar 是形容词类，不能取代原来的名词从句作主语。如果将 called 改成 calling，虽然变成了名词类，但是被动的意味消失了：called a liar 是“打电话给一个骗子”。所以，为了维持被动态，called a liar 不能更动，只能借用前面的 be 动词来作词类变化，成为 being called a liar。be 动词本身没有意义，把它加上 -ing 纯粹只有词类变化的功能，并不改变句意，因而成为：
+剩下的补语 called a liar 是形容词类，不能取代原来的名词从句作主语。如果将 called 改成 calling，虽然变成了名词类，但是被动的意味消失了：calling a liar 是“打电话给一个骗子”。所以，为了维持被动态，called a liar 不能更动，只能借用前面的 be 动词来作词类变化，成为 being called a liar。be 动词本身没有意义，把它加上 -ing 纯粹只有词类变化的功能，并不改变句意，因而成为：
 
 - &nbsp;<Note note="S（简化名词从句）">Being called a liar</Note> <Note note="V">is</Note> the greatest <Note note="C">insult</Note>. （任何人被叫作骗子都是最大的侮辱。）
 
