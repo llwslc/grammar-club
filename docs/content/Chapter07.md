@@ -254,7 +254,7 @@ crowded 在这两个句子中都位于补语位置，用来形容主语 Yangming
 
 <Test q="16. He took down __ of the two maps and began to look for the obscure city." :c="['larger', 'the larger', 'largest', 'the largest']" a="(B)">只有两张地图，所以要用比较级，不能用最高级，故排除 C 和 D。而两张中较大“那张”已充分指出是哪一张，所以要用定冠词。</Test>
 
-<Test q="17. You never feel bored while on a camping trip because no two days are __." :c="['like', 'likely', 'likewise', 'alike']" a="(D)">like 是介系词，likewise 是副词，都不能作补语。likely 是形容词，不过意思是“可能性不小”，在此意思不通，故用另一个形容词 alike（—样的、很像的）。</Test>
+<Test q="17. You never feel bored while on a camping trip because no two days are __." :c="['like', 'likely', 'likewise', 'alike']" a="(D)">like 是介系词，likewise 是副词，都不能作补语。likely 是形容词，不过意思是“可能性不小”，在此意思不通，故用另一个形容词 alike（一样的、很像的）。</Test>
 
 <Test q="18. This action of yours was __ than wise." :c="['kinder', 'most kind', 'kindest', 'more kind']" a="(D)">这是 This action was very kind 和 This action was not very wise 这两句的比较。比较点在 kind 与 wise 上面的程度副词, Which is more? 所以并不是 kind 或 wise 的比较级问题，而是程度副词（如 much）的比较级问题——much 的比较级是 more。</Test>
 

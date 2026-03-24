@@ -214,7 +214,7 @@
 
 <Test q="17. John works harder than __ boy in his class." :c="['all other','any other','all the other','any']" a="(B)">空格后面的 boy 是单数，所以排除复数的 A 和 C。英语的比较级要求较严格：只能说比班上“别的”同学用功，不然会造成“包括比自己用功”的语病，所以要有 other 一词来限定范围。</Test>
 
-<Test q="18. I was told to take the pills __ six hours." :c="['each','every','other','the other']" a="(B)">多久一次，像 every day，every week，every two months，every century（相当于 every hundred years）—样，要用 every 这个限定词来表示。six hours 固然是复数，可是像 hours，miles，pounds 这种代表“单位”的字眼也可以当单数使用，例如：Three miles is a long way to walk.，所以 every six hours 并无冲突。</Test>
+<Test q="18. I was told to take the pills __ six hours." :c="['each','every','other','the other']" a="(B)">多久一次，像 every day，every week，every two months，every century（相当于 every hundred years）一样，要用 every 这个限定词来表示。six hours 固然是复数，可是像 hours，miles，pounds 这种代表“单位”的字眼也可以当单数使用，例如：Three miles is a long way to walk.，所以 every six hours 并无冲突。</Test>
 
 <Test q="19. The man was badly wounded, but there could still be __ hope." :c="['little','few','a little','a few']" a="(C)">hope 不可数，所以从 A 和 C 来选。上下文要求用肯定语气：“还有希望”（从连接词 but 可以看出），所以用表示肯定的 a little。如果用 A，成为 little hope，只能表示否定语气：“希望渺茫”。</Test>
 
