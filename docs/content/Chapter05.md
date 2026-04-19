@@ -62,7 +62,7 @@
 
 在第三句中，主语 strawberry-picking 是个复合字。把 strawberries 拿到动名词 picking 的前面，也就是把它放在形容词位置使用，这也是为什么要改成单数的原因：英语形容词是没有复数的。中间再加上 hyphen，就串连成复合名词 strawberry-picking。这个构造和 mountain-climbing 是相同的。
 
-#### 二、主词不能省略时的处理方式
+#### 二、主语不能省略时的处理方式
 
 - 例： <Note note="S">I</Note> <Note note="V">don't like</Note> <Note note="O">that John calls my girlfriend day after day</Note>. （约翰每天打电话给我女朋友，让我很不舒服。）
 
@@ -86,7 +86,7 @@
 
 是过去分词短语，只能当形容词使用，不能做主语。所以这时候应该做词类变化（比如改成 the invitation），或者就要动用到 being 了。
 
-许多人不太清楚 being 怎么用。其实，being 这个词中，be 是没有意义的 be 动词，所有的意义在于词尾的 -ing 部分。而词尾 -ing 可能是现在分词，表示进行的暗示，或者是动名词，有词类变化的功能。如上述例句中，invited here 不能当主语，因为词类不对。这时除了把 invite 本身改成名词的 invitation 之外，还有一个办法，就是借用前面的 was 来做词类变化，变成 being invited here，—方面保留了过去分词 invited 的被动态，另一方面则符合了名词的词类要求，于是这句变成：
+许多人不太清楚 being 怎么用。其实，being 这个词中，be 是没有意义的 be 动词，所有的意义在于词尾的 -ing 部分。而词尾 -ing 可能是现在分词，表示进行的暗示，或者是动名词，有词类变化的功能。如上述例句中，invited here 不能当主语，因为词类不对。这时除了把 invite 本身改成名词的 invitation 之外，还有一个办法，就是借用前面的 was 来做词类变化，变成 being invited here，一方面保留了过去分词 invited 的被动态，另一方面则符合了名词的词类要求，于是这句变成：
 
 - &nbsp;<Note note="S">Being invited here</Note> <Note note="V">is</Note> <Note note="C">a great honor</Note>.
 

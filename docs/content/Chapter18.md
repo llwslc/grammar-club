@@ -122,7 +122,7 @@
 
 2. &nbsp;<Note>I am invited to the party</Note>.
 
-例 2 就是例 1 中 something 的内容，可以简化后放人 something 的位置。但是例 2 是被动态，如果直接省略主语与 be 动词，会成为：
+例 2 就是例 1 中 something 的内容，可以简化后放入 something 的位置。但是例 2 是被动态，如果直接省略主语与 be 动词，会成为：
 
 - I am looking forward to <Note note="形容词" ul>invited</Note> to the party. （误）
 

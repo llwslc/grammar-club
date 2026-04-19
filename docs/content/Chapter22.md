@@ -224,7 +224,7 @@ not only 和 but also 配合时，如果选择倒装，变化比较复杂。请�
 
 <Test q="5. Only just now __ to him about the things to heed while riding a motorcycle." :c="['I talked', 'was I talking', 'talked I', 'I was talked']" a="(B)">因有 only just now 在句首，要倒装。</Test>
 
-<Test q="6. John was as confused about the rules __." :c="['as were the other contestants', 'as the other contestants had', 'than were the other contestants', 'than the other contestants had']" a="(A)">前有 as confused，后面要有 as（A 或 B）。因为前面是 John was confosed，有 be 动词，后面不能用 had 来代表，应用 be 动词，故选 A，这是比较级的倒装。</Test>
+<Test q="6. John was as confused about the rules __." :c="['as were the other contestants', 'as the other contestants had', 'than were the other contestants', 'than the other contestants had']" a="(A)">前有 as confused，后面要有 as（A 或 B）。因为前面是 John was confused，有 be 动词，后面不能用 had 来代表，应用 be 动词，故选 A，这是比较级的倒装。</Test>
 
 <Test q="7. An IBM PC 286 is as powerful __ on NASA's Voyager II." :c="['than the mainframe computer is', 'than is the mainframe computer', 'as the mainframe computer is powerful', 'as is the mainframe computer']" a="(D)">上文 as 要求用 as 作连接，C 错在 powerful 不应重复。</Test>
 

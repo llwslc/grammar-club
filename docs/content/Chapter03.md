@@ -28,7 +28,7 @@
 
 同样地，把 be 动词视为动词看待会比较简单。时间副词 the whole day yesterday 的性质和 in 1979 是相同的：都是一个过去时间的括弧。所以，动词时态也是一样的：都是过去简单式：was。be 动词后面 visiting clients 这个部分可视为一个现在分词的短语，做为形容词补语来形容主语。<b>现在分词表示一种持续性，相当于中文的“正在”、“一直”的口吻。</b>be 动词不必翻译，因为它是一个没有意义的连缀动词，连接主语“我”和补语“一直在拜访客户”。be 动词只要负责交代时态就好。而“昨天一整天”是一个过去的时间，所以用 was，也就是过去简单式。
 
-- 例： I <Note>was</Note> watching TV <Note>when I heard the doorbell</Note>. （听到门钤响的时候，我正在看电视。）
+- 例： I <Note>was</Note> watching TV <Note>when I heard the doorbell</Note>. （听到门铃响的时候，我正在看电视。）
 
 <Tense img="/c3f04.png" />
 

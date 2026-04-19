@@ -182,7 +182,7 @@
 
 <Quote>
 
-- Many modern-day scientists are not atheists, to whom there no such thing as God, <b><u>but</u></b> agnostics, who refrain from conjecturing about the existence of God, much less His properties. （正）
+- Many modern-day scientists are not atheists, to whom there is no such thing as God, <b><u>but</u></b> agnostics, who refrain from conjecturing about the existence of God, much less His properties. （正）
 
 </Quote>
 

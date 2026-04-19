@@ -252,7 +252,7 @@ ask 是普通动词，邀请人参加，但别人愿不愿意是不确定的，�
 
 <Test q="14. You should avoid __ vague words in your composition." :c="['to use', 'using', 'the use', 'to using']" a="(B)">avoid 有强烈否定意味，与暗示 be going to 的不定词冲突，故用动名词。如果用 C 的 the use，它就是 avoid 的宾语，所以要再加上个介系词才能连上下文，例如 avoid the use of vague words。</Test>
 
-<Test q="15. He is waiting at the restaurant for a free table because he forgot __ a reservation in advance." :c="['making', 'to make', 'made', 'have to make']" a="(B)">从上下文看得出来他事先该订位却忘了，所以要用不定词 forgot to make，意既 He forgot that he should make...</Test>
+<Test q="15. He is waiting at the restaurant for a free table because he forgot __ a reservation in advance." :c="['making', 'to make', 'made', 'have to make']" a="(B)">从上下文看得出来他事先该订位却忘了，所以要用不定词 forgot to make，意即 He forgot that he should make...</Test>
 
 <Test q="16. We can go out now. It stopped __ quite a while ago." :c="['rain', 'raining', 'to rain', 'rained']" a="(B)">raining 有持续的暗示，stopped raining 表示先前一直在下雨，后来停了。</Test>
 

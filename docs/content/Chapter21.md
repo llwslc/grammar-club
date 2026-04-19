@@ -330,7 +330,7 @@ that 引导的这个名词从句可以如此简化：主语 the Callege football
 
 <Test n qs>15. The president avoided the issue. (that) <br />&emsp;&nbsp; This was obvious to the audience.</Test>
 
-<Test>That the president avoided the issue was obvious to the audience. <br /> 或 <br /> It was obvious to the audience that the president avoided the issue. <br /> 简化为： <br /> The president's avoiding the issue was obvious to the audience. <br /> 或 <br /> The president's avoidance of the issue was obvious to the audicnce.</Test>
+<Test>That the president avoided the issue was obvious to the audience. <br /> 或 <br /> It was obvious to the audience that the president avoided the issue. <br /> 简化为： <br /> The president's avoiding the issue was obvious to the audience. <br /> 或 <br /> The president's avoidance of the issue was obvious to the audience.</Test>
 
 <Test n qs>16. Anyone could tell he was upset. <br />&emsp;&nbsp; He had the look on his face. (because)</Test>
 

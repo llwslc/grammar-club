@@ -264,7 +264,7 @@
 
 <Test q="5. Through a process __ coalescence, water droplets in clouds grow to a size large enough to fall to earth." :c="['calls', 'to be called', 'calling', 'called']" a="(D)">空格以下原为关系从句 that is called coalescence，简化为 D.</Test>
 
-<Test q="6. If you are looking for investment advice, I know just the place __." :c="['going', 'to go', 'you to go', 'for you going']" a="(B)">空格以下原为关系从句 where yon can go，简化为 B。</Test>
+<Test q="6. If you are looking for investment advice, I know just the place __." :c="['going', 'to go', 'you to go', 'for you going']" a="(B)">空格以下原为关系从句 where you can go，简化为 B。</Test>
 
 <Test q="7. Penicillin, __ in the early 20th century, brought in the golden age of chemotherapy." :c="['to be discovered', 'discovering', 'discovery was', 'discovered']" a="(D)">空格以下原为关系从句 which was discovered in the early 20th century，简化为 D。</Test>
 

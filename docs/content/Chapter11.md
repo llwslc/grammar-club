@@ -218,7 +218,7 @@ bread 和 butter 都不可数，使用零冠词（zero article），因而看不
 
 这是疑问句，负责交代一致性的助动词靠近前面的 he，所以要选 he 做主语。
 
-正确用法：<b>Ex. 21 Dose</b>
+正确用法：<b>Ex. 21 Does</b>
 
 </Card>
 

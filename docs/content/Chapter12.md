@@ -154,7 +154,7 @@ the important thing = we're all right
 
 这句话中的名词从句仍应视为用在同位语位置。句中的 that 也可以省略。再看一个例子：
 
-- &nbsp;<Note note="S">You</Note> <Note note="V">'d better take</Note> <Note note="O">care</Note> <Note note="同位语">that nothing goes wrong</Note>. （你最好小心，别出錯。）
+- &nbsp;<Note note="S">You</Note> <Note note="V">'d better take</Note> <Note note="O">care</Note> <Note note="同位语">that nothing goes wrong</Note>. （你最好小心，别出错。）
 
 这个句子的宾语是 care，是 S+V+O 的句型，同样没有位置可以放名词从句，但是可以视为下面两句的结合：
 

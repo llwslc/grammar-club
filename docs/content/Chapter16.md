@@ -2,7 +2,7 @@
 
 ## 简化从句
 
-英语语法以句子为研究对象。英语句型有结构较单纯的简单句与结构较复杂的复句、合句之分，在前面已分别探讨过。简单句的结构比较单纯，只有五种基本句型的变化。作文中若只用简单句，除了风格不够成熟外，表达力亦嫌薄弱。间杂复句、合句于文中，则有助于表达较为复杂的观念，亦可丰富句型的变化，是风格趋于成熟。
+英语语法以句子为研究对象。英语句型有结构较单纯的简单句与结构较复杂的复句、合句之分，在前面已分别探讨过。简单句的结构比较单纯，只有五种基本句型的变化。作文中若只用简单句，除了风格不够成熟外，表达力亦嫌薄弱。间杂复句、合句于文中，则有助于表达较为复杂的观念，亦可丰富句型的变化，使风格趋于成熟。
 
 然而，复句、合句包含两个以上的从句，其间往往有重复的元素，因而有进一步精简的空间。若剔除重复或空洞的元素，让复句、合句更加精简，又不失清楚，这就是简化从句。如果说简单句是初级句型，复句、合句是中级句型，那么精简的简化从句就是高级句型。这种句型可以浓缩若干句子的意思于一句，同时符合修辞学对清楚与简洁的要求，是讲究修辞的 TIME 大量使用的句型。
 
@@ -34,7 +34,7 @@
 
 去除这两个空洞的主语，句子的意思还是一样，但是变得紧凑多了，修辞效果就比原来的句子好。再看下例：
 
-2. Whether it is insured or not, <Note note="S">your house</Note>, which is a wooden building, <Note note="V">needs</Note> <Note note="O">a fire alarm</Note>. （你的房子是木造建筑，不论有没有保险都应该装个火警警钤。）
+2. Whether it is insured or not, <Note note="S">your house</Note>, which is a wooden building, <Note note="V">needs</Note> <Note note="O">a fire alarm</Note>. （你的房子是木造建筑，不论有没有保险都应该装个火警警铃。）
 
 这个句子的主要从句是 Your house needs a fire alarm，至于由 whether 引导的副词从句 whether it is insured or not 与由 which 引导的形容词从句 which is a wooden building 这两句的主语（it 与 which）指的都是主要从句中的主语 your house，虽然用了代名词 it 与关系代名词 which 来避免重复，但是仍嫌累赘，所以不如省略，成为：
 

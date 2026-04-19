@@ -136,7 +136,7 @@ suppose 本来是动词，这个副词从句原来是 supposing that you were il
 
 - &nbsp;<Note note="连接词 + 副词从句">Whichever (=No matter which) way you go</Note>, I'll follow. （不论你走到哪里，我都跟定你了。）
 
-- &nbsp;<Note note="连接词 + 副词从句">However (=No matter how) cold it is</Note>, he's always wearing a shirt only. （不管多冷，他总是只穿件村衫。）
+- &nbsp;<Note note="连接词 + 副词从句">However (=No matter how) cold it is</Note>, he's always wearing a shirt only. （不管多冷，他总是只穿件衬衫。）
 
 - &nbsp;<Note note="连接词 + 副词从句">Wherever (=No matter where) he is</Note>, I’ll get him! （不管他躲到哪儿，我都会抓到他！）
 
