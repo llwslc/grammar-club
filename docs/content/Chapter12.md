@@ -44,7 +44,7 @@ I am right 是一个独立的简单句，外加连接词 that 成为名词从句
 
 → He <Note>works</Note> hard <Note>because he's in need of money</Note>. （他勤奋工作，因为他需要钱。）
 
-这是最简单的一种从属从句。例 1 及例 2 都是完整、独立的简单句。两者之间有因果关系：他缺钱是他努力工作的原因，于是用表示原因的连接词 because 加在例 2 前面，把两句话连起来就成了 because he's in need of money，修饰动词 works，所以称为副词从句。
+这是最简单的一种从属从句。例 1 及例 2 都是完整、独立的简单句。两者之间有因果关系：他缺钱是他努力工作的原因，于是用表示原因的连接词 because 加在例 2 前面，把两句话连起来就成了。because he's in need of money 修饰动 works，所以称为副词从句。
 
 本章我们先探讨名词从句，至于形容词从句、副词从句、合句留待后三章探讨。
 
