@@ -120,7 +120,7 @@ Now that 引导的副词从句若要进一步简化，关键在主语、动词�
 
 句 1 和句 2 之间有因果关系：因为在艺术学院读过书，所以才有与众不同的表现。那么就在句 1 前面加上连接词 because 成为副词从句，与句 2 的主要从句并列，成为：
 
-- (1+2) <Note>Because he was educated</Note> in an art college. Ben Kook acts unusual at times.
+- (1+2) <Note>Because he was educated</Note> in an art college, Ben Kook acts unusual at times.
 
 这个句子中，简化 because 引导的副词从句，可以直接省略 he was，再把连接词 because 删去，只保留补语 educated 部分，成为：
 
