@@ -274,7 +274,7 @@ that 引导的这个名词从句可以如此简化：主语 the Callege football
 
 <Test n qs>1. Ben Book was educated in an art college. (because) <br />&emsp;Ben Book acts unusual. <br />&emsp;Ben Book deals with economic matters. (while)</Test>
 
-<Test>Because he was educated in an art college. Ben Book acts unusual while he deals with economic matters. <br /> 简化为： <br /> Educated in an art college, Ben Book acts unusual while dealing with economic matters.</Test>
+<Test>Because he was educated in an art college, Ben Book acts unusual while he deals with economic matters. <br /> 简化为： <br /> Educated in an art college, Ben Book acts unusual while dealing with economic matters.</Test>
 
 <Test n qs>2. I'd like something. <br />&emsp;You will meet some people. (that)</Test>
 
